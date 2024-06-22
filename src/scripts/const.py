@@ -3,7 +3,7 @@ import os
 from pymysql.cursors import DictCursor
 
 
-SOURCE_PATH = os.path.dirname(__file__)
+SOURCE_PATH = os.path.dirname(os.path.dirname(__file__))
 PROJECT_PATH = os.path.dirname(SOURCE_PATH)
 COLLECTION_PATH = f'{PROJECT_PATH}/collection'
 
