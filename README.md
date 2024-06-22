@@ -4,6 +4,15 @@
 Project for "Basi di Dati" course of Universitá di Ferrara by [Alessio Celentano](https://github.com/alessiocelentano) e [Thomas Cantuti](https://github.com/thomascantuti).
 The goal is to develop a simple local web site which interfaces with a database of a gallery using HTML, PHP, Python and MySQL.
 
+## Installation
+```zsh
+$ git clone https://github.com/Databases-Course-Project/Databases-Course-Project
+$ cd Databases-Course-Project
+$ python3 -m venv .
+$ source bin/activate
+$ pip3 install -r requirements.txt
+```
+
 ## Usage
 ### Step 1: ER Diagram
 - We drew the following ER Diagram for this database
