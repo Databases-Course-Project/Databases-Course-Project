@@ -36,42 +36,41 @@ mysql> exit;
 - Tables creation:
  ```mysql
 CREATE TABLE Artists (
-    id int(6) NOT NULL,
-    name varchar(255) COLLATE utf8_bin NOT NULL,
-    gender varchar(6) COLLATE utf8_bin NOT NULL,
-    dates varchar(255) COLLATE utf8_bin,
-    year_of_birth varchar(255) COLLATE utf8_bin,
-    year_of_death varchar(255) COLLATE utf8_bin,
-    place_of_birth varchar(255) COLLATE utf8_bin,
-    place_of_death varchar(255) COLLATE utf8_bin,
-    url varchar(255) COLLATE utf8_bin NOT NULL,
+    id INTEGER NOT NULL,
+    name VARCHAR(255) NOT NULL,
+    gender CHAR NOT NULL,
+    year_of_birth CHAR(4) NOT NULL,
+    year_of_death VARCHAR(4),
+    place_of_birth VARCHAR(50),
+    place_of_death VARCHAR(50),
+    url VARCHAR(255) NOT NULL,
     PRIMARY KEY (id)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin
+)
 ```
 ```mysql
 CREATE TABLE Artworks (
-    id int(8) NOT NULL,
-    accession_number varchar(8) COLLATE utf8_bin NOT NULL,
-    artist varchar(255) COLLATE utf8_bin,
-    artistRole varchar(255) COLLATE utf8_bin,
-    artistId int(8) NOT NULL,
-    title varchar(2047) COLLATE utf8_bin,
-    dateText varchar(255) COLLATE utf8_bin,
-    medium varchar(255) COLLATE utf8_bin,
-    creditLine varchar(2047) COLLATE utf8_bin,
-    year varchar(255) COLLATE utf8_bin,
-    acquisitionYear varchar(255) COLLATE utf8_bin,
-    dimensions varchar(255) COLLATE utf8_bin,
-    width varchar(255) COLLATE utf8_bin,
-    height varchar(255) COLLATE utf8_bin,
-    depth varchar(255) COLLATE utf8_bin,
-    units varchar(255) COLLATE utf8_bin,
-    inscription varchar(255) COLLATE utf8_bin,
-    thumbnailCopyright varchar(2047) COLLATE utf8_bin,
-    thumbnailUrl varchar(255) COLLATE utf8_bin,
-    url varchar(255) COLLATE utf8_bin,
+    id INTEGER NOT NULL,
+    accession_number CHAR(6) NOT NULL,
+    artist VARCHAR(100),
+    artistRole VARCHAR(20),
+    artistId INTEGER NOT NULL,
+    title VARCHAR(2047),
+    dateText VARCHAR(255),
+    medium VARCHAR(255),
+    creditLine VARCHAR(2047),
+    year INTEGER,
+    acquisitionYear INTEGER,
+    types VARCHAR(100),
+    width INTEGER,
+    height INTEGER,
+    depth DECIMAL(10,2),
+    units CHAR(2),
+    inscription VARCHAR(255),
+    thumbnailCopyright VARCHAR(2047),
+    thumbnailUrl VARCHAR(255),
+    url VARCHAR(255),
     PRIMARY KEY (id)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_bin
+)
 ```
 - Entry insert
 ```mysql
