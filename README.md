@@ -26,7 +26,7 @@ $ pip3 install -r requirements.txt
 - We can create the database with MySQL Workbench or via the terminal
 ```zsh
 $ mysql -u username -p
-mysql> CREATE DATABASE museo;
+mysql> CREATE SCHEMA museo;
 mysql> USE museo;
 mysql> exit;
 ```
