@@ -10,11 +10,11 @@ def main():
 
     if (not table_exists(connection, ARTISTS_TABLE_NAME)):
         create_table(connection, ARTISTS_TABLE_NAME, CREATE_ARTISTS_TABLE_QUERY)
-    insert_from_csv(connection, ARTISTS_DATA_CSV, ARTISTS_TABLE_NAME, ARTISTS_INSERT_QUERY)
+    insert_from_csv(connection, CLEANED_ARTISTS_DATA_CSV, ARTISTS_TABLE_NAME, ARTISTS_INSERT_QUERY)
     
     if (not table_exists(connection, ARTWORKS_TABLE_NAME)):
         create_table(connection, ARTWORKS_TABLE_NAME, CREATE_ARTWORKS_TABLE_QUERY)
-    insert_from_csv(connection, ARTWORKS_DATA_CSV, ARTWORKS_TABLE_NAME, ARTWORKS_INSERT_QUERY)
+    insert_from_csv(connection, CLEANED_ARTWORKS_DATA_CSV, ARTWORKS_TABLE_NAME, ARTWORKS_INSERT_QUERY)
         
         
 def connect_to_mysql_db():

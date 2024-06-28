@@ -13,8 +13,10 @@ PASSWORD = 'mypassword'
 DATABASE_NAME = 'museo'
 CURSOR_CLASS = DictCursor
 
-ARTISTS_DATA_CSV = f'{COLLECTION_PATH}/cleaned_artists_data.csv'
-ARTWORKS_DATA_CSV = f'{COLLECTION_PATH}/cleaned_artworks_data.csv'
+ARTISTS_DATA_CSV = f'{COLLECTION_PATH}/artists_data.csv'
+ARTWORKS_DATA_CSV = f'{COLLECTION_PATH}/artworks_data.csv'
+CLEANED_ARTISTS_DATA_CSV = f'{COLLECTION_PATH}/cleaned_artists_data.csv'
+CLEANED_ARTWORKS_DATA_CSV = f'{COLLECTION_PATH}/cleaned_artworks_data.csv'
 
 ARTISTS_TABLE_NAME = 'Artists'
 ARTWORKS_TABLE_NAME = 'Artworks'
@@ -70,7 +72,7 @@ ARTISTS_INSERT_QUERY = '''\
         %s,\
         %s,\
         %s,\
-        %s,\
+        %s\
     )\
 '''
 
@@ -93,7 +95,7 @@ ARTWORKS_INSERT_QUERY = '''\
         %s,\
         %s,\
         %s,\
-        %s,\
+        %s\
     )\
 '''
 
