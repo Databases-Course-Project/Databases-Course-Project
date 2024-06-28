@@ -2,24 +2,32 @@
 
 	$link = mysqli_connect("127.0.0.1", "root", "mypassword", "museo");
 
-	if (!$link) { // if ($link == NULL)
+	if (!$link) {
 		echo "Si è verificato un errore: impossibile collegarsi al database <br/>";
 		echo "Codice errore: " . mysqli_connect_errno() . "<br/>";
 		echo "Messaggio errore: " . mysqli_connect_error() . "<br/>";
 		exit;
 	}
 
-	$name           = $_POST['name'];
-	$gender         = $_POST['gender'];
-	$year_of_birth  = $_POST['year_of_birth'];
-	$year_of_death  = $_POST['year_of_death'];
-	$place_of_birth = $_POST['place_of_birth'];
-    $place_of_death = $_POST['place_of_death'];
-	
+	if ($_POST) {
+		$name           = $_POST['name'];
+		$gender         = $_POST['gender'];
+		$year_of_birth  = $_POST['year_of_birth'];
+		$year_of_death  = $_POST['year_of_death'];
+		$place_of_birth = $_POST['place_of_birth'];
+		$place_of_death = $_POST['place_of_death'];
+	} else {
+		$name           = '';
+		$gender         = '';
+		$year_of_birth  = '';
+		$year_of_death  = '';
+		$place_of_birth = '';
+		$place_of_death = '';
+	}
 	$sql = "SELECT *
-            FROM Artists
-            WHERE (name LIKE '%$name%' AND gender LIKE '%$gender%' AND year_of_birth LIKE '%$year_of_birth%' AND year_of_death LIKE '%$year_of_death%' AND place_of_birth LIKE '%$place_of_birth%' AND place_of_death LIKE '%$place_of_death%')";
-	
+			FROM Artists
+			WHERE (name LIKE '%$name%' AND gender LIKE '%$gender%' AND year_of_birth LIKE '%$year_of_birth%' AND year_of_death LIKE '%$year_of_death%' AND place_of_birth LIKE '%$place_of_birth%' AND place_of_death LIKE '%$place_of_death%')";
+
 	$query = mysqli_query($link, $sql);
 
 	if (!$query) {
@@ -32,7 +40,7 @@
     <head>
         <meta charset="utf-8">
 		        
-		<title>Esempio HTML + PHP</title>
+		<title>Search Artists</title>
 		
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 
@@ -40,12 +48,13 @@
 			body {
 				max-width: 1200px;
 			}
+
 		</style>
     </head>
-    <body>
-        <h1>Ricerca Artisti</h1>
+		<button onclick="window.location.href='index.html'">Back to Home</button>
+		<h1>Search Artists</h1>
 
-		<form action="get.php" method="POST">
+		<form action="search_artists.php" method="POST">
 			<fieldset>
 				<label>Nome:</label>
 				<input type="text" name="name" value="<?php echo htmlspecialchars($name);?>" autofocus >
@@ -76,7 +85,7 @@
 				<input type="text" name="place_of_death" value="<?php echo htmlspecialchars($place_of_death);?>">
 			</fieldset>
 
-			<input type="submit" value="search" />
+			<input type="submit" value="Search" />
 		</form>
         <table>
             <thead>
