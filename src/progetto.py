@@ -54,7 +54,7 @@ artwork_df_nan['year'] = pd.to_numeric(artwork_df_nan['year'], errors='coerce').
 artwork_df_nan['acquisitionYear'] = pd.to_numeric(artwork_df_nan['acquisitionYear'], errors='coerce').fillna(0).astype(int)
 artwork_df_nan['width'] = pd.to_numeric(artwork_df_nan['width'], errors='coerce').fillna(0).astype(int)
 artwork_df_nan['height'] = pd.to_numeric(artwork_df_nan['height'], errors='coerce').fillna(0).astype(int)
-artwork_df_nan['depth'] = artwork_df_nan['depth'].astype(float).round(2)
+artwork_df_nan['depth'] = artwork_df_nan['depth'].astype(int)
 
 def extract_type_without_dimensions(dimension_str):
     # Controlla se ci sono numeri nella stringa
