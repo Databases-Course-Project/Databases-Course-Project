@@ -18,7 +18,7 @@
 	
 	$sql = "SELECT *
             FROM Artists
-            WHERE (name LIKE '$name%' AND gender LIKE '$gender%' AND year_of_birth LIKE '$year_of_birth%' AND year_of_death LIKE '$year_of_death%' AND place_of_birth LIKE '$place_of_birth%' AND place_of_death LIKE '$place_of_death%')";
+            WHERE (name LIKE '%$name%' AND gender LIKE '%$gender%' AND year_of_birth LIKE '%$year_of_birth%' AND year_of_death LIKE '%$year_of_death%' AND place_of_birth LIKE '%$place_of_birth%' AND place_of_death LIKE '%$place_of_death%')";
 	
 	$query = mysqli_query($link, $sql);
 

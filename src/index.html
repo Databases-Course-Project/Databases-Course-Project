@@ -3,51 +3,35 @@
     <head>
         <meta charset="utf-8">
 		        
-		<title>Ricerca Artisti</title>
+		<title>Progetto Basi di Dati - Celentano / Cantuti</title>
 		
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 
 		<style>
 			body {
 				max-width: 1200px;
+                text-align: center;
 			}
+            button {
+                padding: 20px 20px;
+                font-size: 1.3em;
+                width: 1000px;
+                height: 100px;
+            }
 		</style>
     </head>
     
     <body>
-		<h1>Ricerca Artisti</h1>
-
-		<form action="get.php" method="POST">
-			<fieldset>
-				<label>Nome:</label>
-				<input type="text" name="name" autofocus >
-			</fieldset>
-			<fieldset>
-				<label>Sesso:</label>
-				<select name="gender">
-					<option value="">Non Selezionato</option>
-					<option value="M">Maschio</option>
-					<option value="F">Femmina</option>
-				</select>
-			</fieldset>
-			<fieldset>
-				<label>Anno di nascita:</label>
-				<input type="text" name="year_of_birth" >
-			</fieldset>
-			<fieldset>
-				<label>Anno di morte:</label>
-				<input type="text" name="year_of_death" >
-			</fieldset>
-			<fieldset>
-				<label>Paese di nascita:</label>
-				<input type="text" name="place_of_birth">
-			</fieldset>
-			<fieldset>
-				<label>Paese di morte:</label>
-				<input type="text" name="place_of_death">
-			</fieldset>
-
-			<input type="submit" value="search" />
-		</form>
+    <div class="container">
+        <h1>Progetto Basi di Dati - Celentano / Cantuti</h1>
+        <button onclick="window.location.href='search_artists.html'">Search Artists</button><br>
+        <button onclick="window.location.href='search_artworks.html'">Search Artworks</button><br>
+        <button onclick="window.location.href='search_artist_works.html'">Search Artist Works</button><br>
+        <button onclick="window.location.href='stats.html'">See Stats</button><br>
+        <button onclick="window.location.href='opt1.html'">Optional 1</button><br>
+        <button onclick="window.location.href='opt2.html'">Optional 2</button><br>
+        <button onclick="window.location.href='opt3.html'">Optional 3</button>
+    </div>
+    </div>
     </body>
 </html>
