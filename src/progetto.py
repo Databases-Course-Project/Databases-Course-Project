@@ -13,7 +13,7 @@ artwork_df = pd.read_csv(ARTWORK_DATA)
 # Dataset artists
 artist_df_nan = artist_df.copy()
 
-artist_df_nan['gender'].fillna('Not specified', inplace=True)
+artist_df_nan['gender'].fillna('-', inplace=True)
 artist_df_nan['yearOfBirth'] = artist_df_nan['yearOfBirth'].replace(np.nan, 0).astype(int)
 artist_df_nan['yearOfDeath'] = artist_df_nan['yearOfDeath'].replace(np.nan, 0).astype(int)
 artist_df_nan['gender'].replace({'Male': 'M', 'Female': 'F'}, inplace=True)
@@ -22,6 +22,7 @@ artist_df_nan['placeOfDeath'].fillna('Unknown', inplace=True)
 
 artist_df_nan.drop(columns=['dates'], inplace=True)
 # print(artist_df_nan.isnull().sum())
+# print(artist_df_nan['gender'].unique())
 
 cleaned_artist = 'cleaned_artist_data.csv'
 artist_df_nan.to_csv(cleaned_artist, index=False)

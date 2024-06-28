@@ -69,7 +69,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 649,"Andrews, Michael",M,1928,1995,"Norwich, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/michael-andrews-649
 9,"Angellis, Peter",M,1685,1734,"Dunkerque, France","Rennes, France",http://www.tate.org.uk/art/artists/peter-angellis-9
 650,"Annesley, David",M,1936,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/david-annesley-650
-5221,Anonymous,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/anonymous-5221
+5221,Anonymous,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/anonymous-5221
 651,"Anquetin, Louis",M,1861,1932,"Eure, France","Paris, France",http://www.tate.org.uk/art/artists/louis-anquetin-651
 652,"Anrep, Boris",M,1883,1969,"Sankt-Peterburg, Rossiya",Unknown,http://www.tate.org.uk/art/artists/boris-anrep-652
 13677,"Ansarinia, Nazgol",F,1979,0,"Tehran, Îran",Unknown,http://www.tate.org.uk/art/artists/nazgol-ansarinia-13677
@@ -83,7 +83,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 655,"Appelbee, Leonard",M,1914,2000,"Fulham, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/leonard-appelbee-655
 656,"Appleyard, Fred",M,1874,1963,"Middlesbrough, United Kingdom","Hampshire, United Kingdom",http://www.tate.org.uk/art/artists/fred-appleyard-656
 2364,"Araeen, Rasheed",M,1935,0,"Karachi, Pakistan",Unknown,http://www.tate.org.uk/art/artists/rasheed-araeen-2364
-657,"Arakawa, Shusaku",Not specified,1936,2010,"Nagoya, Nihon","New York, United States",http://www.tate.org.uk/art/artists/shusaku-arakawa-657
+657,"Arakawa, Shusaku",-,1936,2010,"Nagoya, Nihon","New York, United States",http://www.tate.org.uk/art/artists/shusaku-arakawa-657
 2752,"Araki, Nobuyoshi",M,1940,0,"Tokyo, Nihon",Unknown,http://www.tate.org.uk/art/artists/nobuyoshi-araki-2752
 10494,"Araujo, Juan",M,1971,0,"Caracas, Venezuela",Unknown,http://www.tate.org.uk/art/artists/juan-araujo-10494
 5271,"Arbus, Diane",F,1923,1971,"New York, United States","New York, United States",http://www.tate.org.uk/art/artists/diane-arbus-5271
@@ -104,9 +104,9 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 16245,Art & Language (Harold Hurrell),M,1940,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/art-language-harold-hurrell-16245
 16236,Art & Language (Ian Burn),M,1939,1993,"Geelong, Australia",Unknown,http://www.tate.org.uk/art/artists/art-language-ian-burn-16236
 16838,Art & Language (Michael Baldwin),M,1945,0,"Chipping Norton, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/art-language-michael-baldwin-16838
-2202,"Art & Language (Michael Baldwin, born 1945; Mel Ramsden, born 1944)",Not specified,1944,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/art-language-michael-baldwin-born-1945-mel-ramsden-born-1944-2202
-17138,"Art & Language (Terry Atkinson, born 1939; David Bainbridge, born 1941; Michael Baldwin, born 1945; Harold Hurrell, born",Not specified,1967,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/art-language-terry-atkinson-born-1939-david-bainbridge-born-1941-michael-baldwin-born-1945-17138
-668,"Art & Language (Terry Atkinson, born 1939; Michael Baldwin, born 1945)",Not specified,1939,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/art-language-terry-atkinson-born-1939-michael-baldwin-born-1945-668
+2202,"Art & Language (Michael Baldwin, born 1945; Mel Ramsden, born 1944)",-,1944,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/art-language-michael-baldwin-born-1945-mel-ramsden-born-1944-2202
+17138,"Art & Language (Terry Atkinson, born 1939; David Bainbridge, born 1941; Michael Baldwin, born 1945; Harold Hurrell, born",-,1967,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/art-language-terry-atkinson-born-1939-david-bainbridge-born-1941-michael-baldwin-born-1945-17138
+668,"Art & Language (Terry Atkinson, born 1939; Michael Baldwin, born 1945)",-,1939,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/art-language-terry-atkinson-born-1939-michael-baldwin-born-1945-668
 2474,"Artaud, William",M,1763,1823,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/william-artaud-2474
 669,"Artschwager, Richard",M,1923,2013,"Washington, United States",Unknown,http://www.tate.org.uk/art/artists/richard-artschwager-669
 670,"Askew, Victor",M,1909,1974,"Rotherham, United Kingdom","Hertfordshire, United Kingdom",http://www.tate.org.uk/art/artists/victor-askew-670
@@ -119,7 +119,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 672,"Atkinson, Lawrence",M,1873,1931,Unknown,Unknown,http://www.tate.org.uk/art/artists/lawrence-atkinson-672
 11829,"Atkinson, Terry",M,1939,0,"Barnsley, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/terry-atkinson-11829
 673,"Atlan, Jean-Michel",M,1913,1960,"Qacentina, Al-Jaza'ir","Paris, France",http://www.tate.org.uk/art/artists/jean-michel-atlan-673
-7639,Atlas Group,Not specified,1999,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/atlas-group-7639
+7639,Atlas Group,-,1999,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/atlas-group-7639
 15557,"Atlas, Charles",M,1958,0,"Saint Louis City, United States",Unknown,http://www.tate.org.uk/art/artists/charles-atlas-15557
 13674,"Attia, Kader",M,1970,0,"Dugny, France",Unknown,http://www.tate.org.uk/art/artists/kader-attia-13674
 674,"Atwood, Clare",F,1866,1962,"Richmond, United Kingdom","Tenterden, United Kingdom",http://www.tate.org.uk/art/artists/clare-atwood-674
@@ -141,10 +141,10 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 14743,"Baalbaki, Ayman",M,1975,0,"Marj ‘Uyun, Al-Lubnan",Unknown,http://www.tate.org.uk/art/artists/ayman-baalbaki-14743
 13866,"Bäckström, Miriam",F,1967,0,"Stockholm, Sverige",Unknown,http://www.tate.org.uk/art/artists/miriam-backstrom-13866
 682,"Bacon, Francis",M,1909,1992,"Dublin, Éire","Madrid, España",http://www.tate.org.uk/art/artists/francis-bacon-682
-18070,"Bacon, John",Not specified,1740,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/john-bacon-18070
+18070,"Bacon, John",-,1740,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/john-bacon-18070
 683,"Bacon, John Henry F.",M,1868,1915,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-henry-f-bacon-683
 2370,"Bacon, Sir Nathaniel",M,1585,1627,Unknown,Unknown,http://www.tate.org.uk/art/artists/sir-nathaniel-bacon-2370
-12918,"Baehnisch, Ruth",Not specified,1910,1997,Unknown,Unknown,http://www.tate.org.uk/art/artists/ruth-baehnisch-12918
+12918,"Baehnisch, Ruth",-,1910,1997,Unknown,Unknown,http://www.tate.org.uk/art/artists/ruth-baehnisch-12918
 684,"Baer, Jo",F,1929,0,"Seattle, United States",Unknown,http://www.tate.org.uk/art/artists/jo-baer-684
 685,"Baertling, Olle",M,1911,1981,"Halmstad, Sverige","Stockholm, Sverige",http://www.tate.org.uk/art/artists/olle-baertling-685
 16,"Baily, Edward Hodges",M,1788,1867,"Bristol, United Kingdom","Islington, United Kingdom",http://www.tate.org.uk/art/artists/edward-hodges-baily-16
@@ -216,7 +216,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 717,"Beattie, Basil",M,1935,0,"Hartlepool, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/basil-beattie-717
 29,"Beaumont, Sir George Howland, Bt",M,1753,1827,"Great Dunmow, United Kingdom","Leicestershire, United Kingdom",http://www.tate.org.uk/art/artists/sir-george-howland-beaumont-bt-29
 10983,"Beban, Breda",F,1952,2012,"Novi Sad, Jugoslavija",Unknown,http://www.tate.org.uk/art/artists/breda-beban-10983
-718,"Becher, Prof. Bernd",Not specified,1931,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/bernd-becher-and-hilla-becher-718
+718,"Becher, Prof. Bernd",-,1931,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/bernd-becher-and-hilla-becher-718
 2557,"Becker, Ferdinand",M,1793,1825,Unknown,Unknown,http://www.tate.org.uk/art/artists/ferdinand-becker-2557
 719,"Becker, Harald",M,1940,0,Deutschland,Unknown,http://www.tate.org.uk/art/artists/harald-becker-719
 6303,"Beckley, Bill",M,1946,0,"Hamburg, United States",Unknown,http://www.tate.org.uk/art/artists/bill-beckley-6303
@@ -241,9 +241,9 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 733,"Bellegarde, Claude",M,1927,0,"Paris, France",Unknown,http://www.tate.org.uk/art/artists/claude-bellegarde-733
 735,"Bellingham-Smith, Elinor",F,1906,1988,"London, United Kingdom","Ipswich, United Kingdom",http://www.tate.org.uk/art/artists/elinor-bellingham-smith-735
 736,"Bellmer, Hans",M,1902,1975,"Katowice, Polska","Paris, France",http://www.tate.org.uk/art/artists/hans-bellmer-736
-2618,"Belloguet, A.",Not specified,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/a-belloguet-2618
+2618,"Belloguet, A.",-,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/a-belloguet-2618
 2549,"Benazech, Peter Paul",M,1744,1783,Unknown,Unknown,http://www.tate.org.uk/art/artists/peter-paul-benazech-2549
-18264,"Bendix Skyum Larsen, Nikolaj",Not specified,1971,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/nikolaj-bendix-skyum-larsen-18264
+18264,"Bendix Skyum Larsen, Nikolaj",-,1971,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/nikolaj-bendix-skyum-larsen-18264
 7290,"Benglis, Lynda",F,1941,0,"Louisiana, United States",Unknown,http://www.tate.org.uk/art/artists/lynda-benglis-7290
 737,"Benjamin, Anthony",M,1931,2002,"Hampshire, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/anthony-benjamin-737
 33,"Bennett, William",M,1811,1871,Unknown,Unknown,http://www.tate.org.uk/art/artists/william-bennett-33
@@ -254,7 +254,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 741,"Béraud, Jean",M,1849,1935,"Sankt-Peterburg, Rossiya","Paris, France",http://www.tate.org.uk/art/artists/jean-beraud-741
 742,"Berber, Mersad",M,1940,0,"Bosanski Petrovac, Bosna i Hercegovina",Unknown,http://www.tate.org.uk/art/artists/mersad-berber-742
 743,"Berg, Adrian",M,1929,2011,"London, United Kingdom","Brighton, United Kingdom",http://www.tate.org.uk/art/artists/adrian-berg-743
-18242,"Bergvall, Caroline",Not specified,1962,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/caroline-bergvall-18242
+18242,"Bergvall, Caroline",-,1962,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/caroline-bergvall-18242
 2481,"Berkeley, Rev C J R",M,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/rev-c-j-r-berkeley-2481
 744,"Berman, Eugène",M,1899,1972,"Sankt-Peterburg, Rossiya","Roma, Italia",http://www.tate.org.uk/art/artists/eugene-berman-744
 745,"Bernik, Janez",M,1933,0,Slovenija,Unknown,http://www.tate.org.uk/art/artists/janez-bernik-745
@@ -284,7 +284,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 757,"Bissière, Roger",M,1886,1964,"Lot-et-Garonne, France","Lot, France",http://www.tate.org.uk/art/artists/roger-bissiere-757
 758,"Bissill, George",M,1896,1973,"Fairford, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/george-bissill-758
 6500,"Bjørlo, Per Inge",M,1952,0,"Ålesund, Norge",Unknown,http://www.tate.org.uk/art/artists/per-inge-bjrlo-6500
-9260,Black Audio Film Collective (John Akomfrah; Reece Auguis; Edward George; Lina Gopaul; Avril Johnson; David Lawson; Trevo,Not specified,1958,1998,Unknown,Unknown,http://www.tate.org.uk/art/artists/black-audio-film-collective-john-akomfrah-reece-auguis-edward-george-lina-gopaul-avril-9260
+9260,Black Audio Film Collective (John Akomfrah; Reece Auguis; Edward George; Lina Gopaul; Avril Johnson; David Lawson; Trevo,-,1958,1998,Unknown,Unknown,http://www.tate.org.uk/art/artists/black-audio-film-collective-john-akomfrah-reece-auguis-edward-george-lina-gopaul-avril-9260
 11563,"Black, Karla",F,1972,0,"Alexandria, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/karla-black-11563
 759,"Black, Sheila",F,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/sheila-black-759
 760,"Blackadder, Elizabeth",F,1931,0,"Falkirk, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/elizabeth-blackadder-760
@@ -326,7 +326,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 41,"Bonington, Richard Parkes",M,1802,1828,"Arnold, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/richard-parkes-bonington-41
 781,"Bonnard, Pierre",M,1867,1947,"Fontenay-aux-Roses, France","Cannet, le, France",http://www.tate.org.uk/art/artists/pierre-bonnard-781
 782,"Bontecou, Lee",F,1931,0,"Providence, United States",Unknown,http://www.tate.org.uk/art/artists/lee-bontecou-782
-13195,"Booth, L",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/l-booth-13195
+13195,"Booth, L",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/l-booth-13195
 2702,"Borland, Christine",F,1965,0,"Darvel, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/christine-borland-2702
 783,"Bornfriend, Jacob",M,1904,1976,Ceská Republika,Unknown,http://www.tate.org.uk/art/artists/jacob-bornfriend-783
 784,"Borofsky, Jonathan",M,1942,0,"Boston, United States",Unknown,http://www.tate.org.uk/art/artists/jonathan-borofsky-784
@@ -353,7 +353,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 48,"Boyce, George Price",M,1826,1897,"Camden, United Kingdom","Chelsea, United Kingdom",http://www.tate.org.uk/art/artists/george-price-boyce-48
 7630,"Boyce, Martin",M,1967,0,"Hamilton, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/martin-boyce-7630
 794,"Boyce, Sonia",F,1962,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/sonia-boyce-794
-795,"Boyd and Evans, Fionnuala and Leslie",Not specified,1944,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/boyd-and-evans-fionnuala-boyd-leslie-evans-795
+795,"Boyd and Evans, Fionnuala and Leslie",-,1944,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/boyd-and-evans-fionnuala-boyd-leslie-evans-795
 1249,"Boyd Harte, Glynn",M,1948,2003,"Lancashire, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/glynn-boyd-harte-1249
 796,"Boyd, Arthur",M,1920,1999,Australia,Melbourne,http://www.tate.org.uk/art/artists/arthur-boyd-796
 797,"Boyle, Mark",M,1934,2005,"Glasgow, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/mark-boyle-797
@@ -392,14 +392,14 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 812,"Brill, Frederick",M,1920,1984,Unknown,Unknown,http://www.tate.org.uk/art/artists/frederick-brill-812
 2671,"Brill, Reginald",M,1902,1974,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/reginald-brill-2671
 813,"Brisley, Stuart",M,1933,0,"Haslemere, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/stuart-brisley-813
-2638,British (?) School,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-2638
-61,British (?) School 19th century,Not specified,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-19th-century-61
-56,British School 16th century,Not specified,1500,1599,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-16th-century-56
-57,British School 17th century,Not specified,1600,1699,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-17th-century-57
-58,British School 17th or 18th century,Not specified,1600,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-17th-or-18th-century-58
-59,British School 18th century,Not specified,1700,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-18th-century-59
-60,British School 19th century,Not specified,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-19th-century-60
-2548,British School 20th century,Not specified,1900,1999,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-20th-century-2548
+2638,British (?) School,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-2638
+61,British (?) School 19th century,-,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-19th-century-61
+56,British School 16th century,-,1500,1599,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-16th-century-56
+57,British School 17th century,-,1600,1699,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-17th-century-57
+58,British School 17th or 18th century,-,1600,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-17th-or-18th-century-58
+59,British School 18th century,-,1700,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-18th-century-59
+60,British School 19th century,-,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-19th-century-60
+2548,British School 20th century,-,1900,1999,Unknown,Unknown,http://www.tate.org.uk/art/artists/british-school-20th-century-2548
 62,"Brock, Sir Thomas",M,1847,1922,"Worcester, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/sir-thomas-brock-62
 11347,"Brockhurst, Gerald",M,1890,1978,"Birmingham, United Kingdom","Franklin Lakes, United States",http://www.tate.org.uk/art/artists/gerald-leslie-brockhurst-11347
 814,"Brodzky, Horace",M,1885,1969,"Kew, Australia","London, United Kingdom",http://www.tate.org.uk/art/artists/horace-brodzky-814
@@ -410,7 +410,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 817,"Brooker, William",M,1918,1983,"Croydon, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/william-brooker-817
 64,"Brooking, Charles",M,1723,1759,"Deptford, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/charles-brooking-64
 818,"Brooks, James",M,1906,1992,"Saint Louis, United States","New York, United States",http://www.tate.org.uk/art/artists/james-brooks-818
-10428,"Broom, Christina",Not specified,1863,1939,Unknown,Unknown,http://www.tate.org.uk/art/artists/christina-broom-10428
+10428,"Broom, Christina",-,1863,1939,Unknown,Unknown,http://www.tate.org.uk/art/artists/christina-broom-10428
 16107,"Broomberg, Adam",M,1970,0,"Johannesburg, South Africa",Unknown,http://www.tate.org.uk/art/artists/adam-broomberg-16107
 819,"Brough, Robert",M,1872,1905,"Invergordon, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/robert-brough-819
 820,"Brough, Romey",F,1944,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/romey-brough-820
@@ -590,7 +590,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 899,"Chia, Sandro",M,1946,0,"Firenze, Italia",Unknown,http://www.tate.org.uk/art/artists/sandro-chia-899
 900,"Chighine, Alfredo",M,1914,1974,"Milano, Italia",Unknown,http://www.tate.org.uk/art/artists/alfredo-chighine-900
 901,"Chillida, Eduardo",M,1924,2002,"San Sebastián, España",Unknown,http://www.tate.org.uk/art/artists/eduardo-chillida-901
-2743,Chinese School 18th century,Not specified,1700,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/chinese-school-18th-century-2743
+2743,Chinese School 18th century,-,1700,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/chinese-school-18th-century-2743
 92,"Chinnery, George",M,1774,1852,"London, United Kingdom",Macau,http://www.tate.org.uk/art/artists/george-chinnery-92
 3151,"Chodzko, Adam",M,1965,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/adam-chodzko-3151
 14735,"Choucair, Saloua Raouda",F,1916,0,"Bayrut, Al-Lubnan",Unknown,http://www.tate.org.uk/art/artists/saloua-raouda-choucair-14735
@@ -683,7 +683,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2563,"Cooper, George",M,1792,1830,Unknown,Unknown,http://www.tate.org.uk/art/artists/george-cooper-2563
 940,"Cooper, Gerald",M,1899,1971,Unknown,Unknown,http://www.tate.org.uk/art/artists/gerald-cooper-940
 2419,"Cooper, Richard, Junior",M,1740,1814,"Edinburgh, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/richard-cooper-junior-2419
-3807,"Cooper, Samuel",Not specified,1609,1672,Unknown,Unknown,http://www.tate.org.uk/art/artists/samuel-cooper-3807
+3807,"Cooper, Samuel",-,1609,1672,Unknown,Unknown,http://www.tate.org.uk/art/artists/samuel-cooper-3807
 4744,"Cooper, Thomas Joshua",M,1946,0,"San Francisco, United States",Unknown,http://www.tate.org.uk/art/artists/thomas-joshua-cooper-4744
 112,"Cooper, Thomas Sidney",M,1803,1902,"Canterbury, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/thomas-sidney-cooper-112
 2353,"Coplans, John",M,1920,2003,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-coplans-2353
@@ -833,7 +833,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2641,"Demand, Thomas",M,1964,0,"München, Deutschland",Unknown,http://www.tate.org.uk/art/artists/thomas-demand-2641
 995,"Demnig, Gunter",M,1947,0,"Berlin, Deutschland",Unknown,http://www.tate.org.uk/art/artists/gunter-demnig-995
 2493,"Denham, John Charles",M,1796,1858,Unknown,Unknown,http://www.tate.org.uk/art/artists/john-charles-denham-2493
-5669,"Deni, Viktor",Not specified,1893,1946,Unknown,Unknown,http://www.tate.org.uk/art/artists/viktor-deni-5669
+5669,"Deni, Viktor",-,1893,1946,Unknown,Unknown,http://www.tate.org.uk/art/artists/viktor-deni-5669
 2598,"Denis, Dominic",M,1963,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/dominic-denis-2598
 2647,"Denner, Balthasar",M,1685,1749,"Altona, Deutschland","Rostock, Deutschland",http://www.tate.org.uk/art/artists/balthasar-denner-2647
 2294,"Dennis, Jeffrey",M,1958,0,"Colchester, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/jeffrey-dennis-2294
@@ -896,7 +896,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 3038,"Douglas, Stan",M,1960,0,"Vancouver, Canada",Unknown,http://www.tate.org.uk/art/artists/stan-douglas-3038
 1026,"Dova, Gianni",M,1925,1991,"Roma, Italia","Pisa, Italia",http://www.tate.org.uk/art/artists/gianni-dova-1026
 158,"Downard, Ebenezer Newman",M,1849,1889,"Brighton, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/ebenezer-newman-downard-158
-13086,"Downey, Juan",Not specified,1940,1993,Unknown,Unknown,http://www.tate.org.uk/art/artists/juan-downey-13086
+13086,"Downey, Juan",-,1940,1993,Unknown,Unknown,http://www.tate.org.uk/art/artists/juan-downey-13086
 159,"Downman, John",M,1750,1824,"Ruabon, United Kingdom","Wrexham, United Kingdom",http://www.tate.org.uk/art/artists/john-downman-159
 1027,"Downsbrough, Peter",M,1940,0,"New York, United States",Unknown,http://www.tate.org.uk/art/artists/peter-downsbrough-1027
 2350,"Downton, John",M,1906,1991,"Kent, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-downton-2350
@@ -921,7 +921,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1038,"Dufy, Raoul",M,1877,1953,"Le Havre, France","Forcalquier, France",http://www.tate.org.uk/art/artists/raoul-dufy-1038
 1039,"Dugdale, Thomas",M,1880,1952,"Blackburn, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/thomas-dugdale-1039
 1040,"Dugger, John",M,1948,0,"Bellflower, United States",Unknown,http://www.tate.org.uk/art/artists/john-dugger-1040
-12074,"Dughet, Gaspard",Not specified,1615,1675,Unknown,Unknown,http://www.tate.org.uk/art/artists/gaspard-dughet-12074
+12074,"Dughet, Gaspard",-,1615,1675,Unknown,Unknown,http://www.tate.org.uk/art/artists/gaspard-dughet-12074
 2407,"Dumas, Marlene",F,1953,0,"Cape Town, South Africa",Unknown,http://www.tate.org.uk/art/artists/marlene-dumas-2407
 1041,"Dunbar, Evelyn",F,1906,1960,"Reading, United Kingdom","Kent, United Kingdom",http://www.tate.org.uk/art/artists/evelyn-dunbar-1041
 2284,"Duncombe, Susanna",F,1725,1812,Unknown,"London, United Kingdom",http://www.tate.org.uk/art/artists/susanna-duncombe-nee-susanna-highmore-2284
@@ -978,7 +978,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 12043,"Erwitt, Elliot",M,1928,0,"Paris, France",Unknown,http://www.tate.org.uk/art/artists/elliot-erwitt-12043
 13676,"Eskandarfar, Samira",F,1980,0,"Tehran, Îran",Unknown,http://www.tate.org.uk/art/artists/samira-eskandarfar-13676
 4831,"Espaliú, Pepe",M,1955,1993,"Córdoba, España","Córdoba, España",http://www.tate.org.uk/art/artists/pepe-espaliu-4831
-14308,"Espinoza, Eugenio",Not specified,1950,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/eugenio-espinoza-14308
+14308,"Espinoza, Eugenio",-,1950,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/eugenio-espinoza-14308
 3028,"Essenhigh, Inka",F,1969,0,"Pennsylvania, United States",Unknown,http://www.tate.org.uk/art/artists/inka-essenhigh-3028
 2628,"Essex, Lord",M,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/lord-essex-2628
 1067,"Estes, Richard",M,1936,0,"Evanston, United States",Unknown,http://www.tate.org.uk/art/artists/richard-estes-1067
@@ -1091,8 +1091,8 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2712,"Freedman, Carl",M,1965,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/carl-freedman-2712
 1117,"Freiles, Antonio",M,1943,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/antonio-freiles-1117
 1118,"Frélaut, Jean",M,1879,1954,"Grenoble, France","Vannes, France",http://www.tate.org.uk/art/artists/jean-frelaut-1118
-2330,French School 18th century,Not specified,1700,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/french-school-18th-century-2330
-2744,French School 19th century,Not specified,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/french-school-19th-century-2744
+2330,French School 18th century,-,1700,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/french-school-18th-century-2330
+2744,French School 19th century,-,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/french-school-19th-century-2744
 1119,"Frenkel, Vera",F,1938,0,"Bratislava, Slovenská Republika",Unknown,http://www.tate.org.uk/art/artists/vera-frenkel-1119
 1120,"Freud, Lucian",M,1922,2011,"Berlin, Deutschland","London, United Kingdom",http://www.tate.org.uk/art/artists/lucian-freud-1120
 1121,"Friedenson, Arthur",M,1872,1955,"Leeds, United Kingdom","Parkstone, United States",http://www.tate.org.uk/art/artists/arthur-friedenson-1121
@@ -1152,14 +1152,14 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 11852,Gego (Gertrud Goldschmidt),F,1912,1994,"Hamburg, Deutschland","Caracas, Venezuela",http://www.tate.org.uk/art/artists/gego-gertrud-goldschmidt-11852
 2428,"Geikie, Walter",M,1795,1837,"Edinburgh, United Kingdom","Edinburgh, United Kingdom",http://www.tate.org.uk/art/artists/walter-geikie-2428
 2352,"Gennari, Benedetto",M,1633,1715,"Cento, Italia","Bologna, Italia",http://www.tate.org.uk/art/artists/benedetto-gennari-2352
-2552,"Gent, G.W.",Not specified,1804,1822,Unknown,Unknown,http://www.tate.org.uk/art/artists/gw-gent-2552
+2552,"Gent, G.W.",-,1804,1822,Unknown,Unknown,http://www.tate.org.uk/art/artists/gw-gent-2552
 1148,"Gentleman, David",M,1930,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/david-gentleman-1148
 1149,"Gentleman, Tom",M,1882,1966,Unknown,Unknown,http://www.tate.org.uk/art/artists/tom-gentleman-1149
 10435,"Genzken, Isa",F,1948,0,"Bad Oldesloe, Deutschland",Unknown,http://www.tate.org.uk/art/artists/isa-genzken-10435
 1150,"Geoffrey, Iqbal",M,1939,0,"Chiniot, Pakistan",Unknown,http://www.tate.org.uk/art/artists/iqbal-geoffrey-1150
 1151,"George, Patrick",M,1923,0,"Manchester, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/patrick-george-1151
 1152,"George, Thomas",M,1918,0,"New York, United States",Unknown,http://www.tate.org.uk/art/artists/thomas-george-1152
-6642,"Gerasimovich, Josif",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/josif-gerasimovich-6642
+6642,"Gerasimovich, Josif",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/josif-gerasimovich-6642
 1153,"Gere, Charles M.",M,1869,1957,"Gloucester, United Kingdom","Gloucester, United Kingdom",http://www.tate.org.uk/art/artists/charles-m-gere-1153
 1154,"Gere, Margaret",F,1878,1965,"Warwickshire, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/margaret-gere-1154
 1155,"Gerrard, A.H.",M,1899,1998,"Hartford, United Kingdom","Kent, United Kingdom",http://www.tate.org.uk/art/artists/ah-gerrard-1155
@@ -1206,7 +1206,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1178,"Gleizes, Albert",M,1881,1953,"Paris, France","Avignon, France",http://www.tate.org.uk/art/artists/albert-gleizes-1178
 1179,"Glendening, Alfred",M,1861,1907,"Kent, United Kingdom","Essex, United Kingdom",http://www.tate.org.uk/art/artists/alfred-glendening-1179
 1180,"Glendenning, Ronald",M,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/ronald-glendenning-1180
-6651,"Glik, M.",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/m-glik-6651
+6651,"Glik, M.",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/m-glik-6651
 212,"Glover, John",M,1767,1849,"Leicestershire, United Kingdom","Launceston, Australia",http://www.tate.org.uk/art/artists/john-glover-212
 2309,"Gober, Robert",M,1954,0,"Wallingford, United States",Unknown,http://www.tate.org.uk/art/artists/robert-gober-2309
 1181,"Goeneutte, Norbert",M,1854,1894,"Paris, France","Auvers-sur-Oise, France",http://www.tate.org.uk/art/artists/norbert-goeneutte-1181
@@ -1217,7 +1217,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2649,"Goldin, Nan",F,1953,0,"Washington, United States",Unknown,http://www.tate.org.uk/art/artists/nan-goldin-2649
 1184,"Golding, John",M,1929,2012,"Hastings, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-golding-1184
 1185,"Goldschmidt, Hilde",F,1897,1980,"Leipzig, Deutschland","Kitzbühel, Österreich",http://www.tate.org.uk/art/artists/hilde-goldschmidt-1185
-13568,"Goldstein, Jack",Not specified,1945,2003,Unknown,Unknown,http://www.tate.org.uk/art/artists/jack-goldstein-13568
+13568,"Goldstein, Jack",-,1945,2003,Unknown,Unknown,http://www.tate.org.uk/art/artists/jack-goldstein-13568
 7274,"Goldsworthy, Andy",M,1956,0,"Cheshire, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/andy-goldsworthy-7274
 2207,"Golub, Leon",M,1922,2004,"Chicago, United States",Unknown,http://www.tate.org.uk/art/artists/leon-golub-2207
 11698,"Gomes, Fernanda",F,1960,0,"Rio de Janeiro, Brasil",Unknown,http://www.tate.org.uk/art/artists/fernanda-gomes-11698
@@ -1343,7 +1343,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 233,"Halswelle, Keeley",M,1832,1891,"Surrey, United Kingdom","Paris, France",http://www.tate.org.uk/art/artists/keeley-halswelle-233
 8795,"Hamada, Shoji",M,1884,1978,"Mizonokuchi, Nihon","Mashiko, Nihon",http://www.tate.org.uk/art/artists/shoji-hamada-8795
 1242,"Hambling, Maggi",F,1945,0,"Hadleigh, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/maggi-hambling-1242
-18244,"Hamdan, Lawrence Abu",Not specified,1985,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/lawrence-abu-hamdan-18244
+18244,"Hamdan, Lawrence Abu",-,1985,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/lawrence-abu-hamdan-18244
 1093,"Hamilton Finlay, Ian",M,1925,2006,"Nassau, Bahamas","Glasgow, United Kingdom",http://www.tate.org.uk/art/artists/ian-hamilton-finlay-1093
 2404,"Hamilton, Ann",F,1956,0,"Coshocton, United States",Unknown,http://www.tate.org.uk/art/artists/ann-hamilton-2404
 4789,"Hamilton, Anthea",F,1978,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/anthea-hamilton-4789
@@ -1439,7 +1439,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 253,"Herring, John Frederick, Junior",M,1816,1907,"Doncaster, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-frederick-herring-junior-253
 13108,"Hershman, Lynn",F,1941,0,"Cleveland, United States",Unknown,http://www.tate.org.uk/art/artists/lynn-hershman-13108
 12045,"Hervé, Lucien",M,1910,2007,Magyarország,Unknown,http://www.tate.org.uk/art/artists/lucien-herve-12045
-3819,"Herwijck, Stephen",Not specified,1530,1567,Unknown,Unknown,http://www.tate.org.uk/art/artists/stephen-van-herwijck-3819
+3819,"Herwijck, Stephen",-,1530,1567,Unknown,Unknown,http://www.tate.org.uk/art/artists/stephen-van-herwijck-3819
 1280,"Hesse, Eva",F,1936,1970,"Hamburg, Deutschland","New York, United States",http://www.tate.org.uk/art/artists/eva-hesse-1280
 1281,"Heyboer, Anton",M,1924,2005,"Sabang, Indonesia",Nederland,http://www.tate.org.uk/art/artists/anton-heyboer-1281
 254,"Hickey, Thomas",M,1741,1824,"Dublin, Éire",Unknown,http://www.tate.org.uk/art/artists/thomas-hickey-254
@@ -1447,7 +1447,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1282,"Hicks, Philip",M,1928,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/philip-hicks-1282
 1283,"Hide, Peter",M,1944,0,"Surrey, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/peter-hide-1283
 2762,"Higgs, Matthew",M,1964,0,"Chorley, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/matthew-higgs-2762
-2259,Highmore,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/highmore-family-2259
+2259,Highmore,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/highmore-family-2259
 256,"Highmore, Joseph",M,1692,1780,"London, United Kingdom","Canterbury, United Kingdom",http://www.tate.org.uk/art/artists/joseph-highmore-256
 257,"Hilditch, Richard H.",M,1804,1873,Unknown,Unknown,http://www.tate.org.uk/art/artists/richard-h-hilditch-257
 1284,"Hill, Anthony",M,1930,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/anthony-hill-1284
@@ -1539,7 +1539,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 3111,"Hudson, Anna Hope",F,1869,1957,"New York, United States",Unknown,http://www.tate.org.uk/art/artists/anna-hope-hudson-3111
 281,"Hudson, Thomas",M,1701,1779,"Devon, United Kingdom","Twickenham, United Kingdom",http://www.tate.org.uk/art/artists/thomas-hudson-281
 1320,"Huebler, Douglas",M,1924,1997,"Ann Arbor, United States","Truro, United States",http://www.tate.org.uk/art/artists/douglas-huebler-1320
-13334,"Huerta, Enrique",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/enrique-huerta-13334
+13334,"Huerta, Enrique",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/enrique-huerta-13334
 282,"Huggins, William",M,1820,1884,"Liverpool, United Kingdom","Cheshire, United Kingdom",http://www.tate.org.uk/art/artists/william-huggins-282
 283,"Hughes, Arthur",M,1832,1915,"London, United Kingdom","Kew, United Kingdom",http://www.tate.org.uk/art/artists/arthur-hughes-283
 1321,"Hughes, Malcolm",M,1920,1997,"Manchester, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/malcolm-hughes-1321
@@ -1582,8 +1582,8 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2379,"Innes, Callum",M,1962,0,"Edinburgh, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/callum-innes-2379
 1336,"Innes, James Dickson",M,1887,1914,"Llanelli, United Kingdom","Swanley, United Kingdom",http://www.tate.org.uk/art/artists/james-dickson-innes-1336
 1337,"Inshaw, David",M,1943,0,"Staffordshire, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/david-inshaw-1337
-1338,International Local (Sarah Charlesworth; Joseph Kosuth; Anthony McCall),Not specified,1945,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/international-local-sarah-charlesworth-joseph-kosuth-anthony-mccall-1338
-4561,Inventory,Not specified,1996,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/inventory-4561
+1338,International Local (Sarah Charlesworth; Joseph Kosuth; Anthony McCall),-,1945,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/international-local-sarah-charlesworth-joseph-kosuth-anthony-mccall-1338
+4561,Inventory,-,1996,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/inventory-4561
 1339,"Ipoustéguy, Jean",M,1920,0,"Dun-sur-Meuse, France",Unknown,http://www.tate.org.uk/art/artists/jean-robert-ipousteguy-1339
 1340,"Ireland, Geoffrey",M,1923,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/geoffrey-ireland-1340
 1341,"Ironside, Robin",M,1912,1965,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/robin-ironside-1341
@@ -1591,8 +1591,8 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 10747,"Irvine, Jaki",F,1966,0,"Dublin, Éire",Unknown,http://www.tate.org.uk/art/artists/jaki-irvine-10747
 1343,"Irwin, Gwyther",M,1931,2008,"Cornwall, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/gwyther-irwin-1343
 10089,"Islam, Runa",F,1970,0,Bangladesh,Unknown,http://www.tate.org.uk/art/artists/runa-islam-10089
-2345,Italian or German (?) School 17th century,Not specified,1600,1699,Unknown,Unknown,http://www.tate.org.uk/art/artists/italian-or-german-school-17th-century-2345
-5741,"Ivanov, Sergei",Not specified,1885,1942,Unknown,Unknown,http://www.tate.org.uk/art/artists/sergei-ivanov-5741
+2345,Italian or German (?) School 17th century,-,1600,1699,Unknown,Unknown,http://www.tate.org.uk/art/artists/italian-or-german-school-17th-century-2345
+5741,"Ivanov, Sergei",-,1885,1942,Unknown,Unknown,http://www.tate.org.uk/art/artists/sergei-ivanov-5741
 7504,"Ivekovic, Sanja",F,1949,0,"Zagreb, Hrvatska",Unknown,http://www.tate.org.uk/art/artists/sanja-ivekovic-7504
 8378,"Jaar, Alfredo",M,1956,0,"Santiago, Chile",Unknown,http://www.tate.org.uk/art/artists/alfredo-jaar-8378
 1344,"Jack, Richard",M,1866,1952,"Sunderland, United Kingdom","Québec, Canada",http://www.tate.org.uk/art/artists/richard-jack-1344
@@ -1671,14 +1671,14 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 9484,"Jungen, Brian",M,1970,0,"Fort Saint John, Canada",Unknown,http://www.tate.org.uk/art/artists/brian-jungen-9484
 1379,"Jungman, Nico",M,1872,1935,"Amsterdam, Nederland","London, United Kingdom",http://www.tate.org.uk/art/artists/nico-jungman-1379
 7637,"Just, Jesper",M,1974,0,"København, Danmark",Unknown,http://www.tate.org.uk/art/artists/jesper-just-7637
-3092,K.O.S.,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/kos-3092
+3092,K.O.S.,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/kos-3092
 1380,"Kadishman, Menashe",M,1932,0,"Tel Aviv-Yafo, Yisra'el",Unknown,http://www.tate.org.uk/art/artists/menashe-kadishman-1380
 1381,"Kahn, Erich",M,1904,1979,"Stuttgart, Deutschland","London, United Kingdom",http://www.tate.org.uk/art/artists/erich-kahn-1381
 2621,"Kaisermann, Franz",M,1765,1833,"Yverdon, Schweiz","Roma, Italia",http://www.tate.org.uk/art/artists/franz-kaisermann-2621
 1382,"Kandinsky, Wassily",M,1866,1944,"Moskva, Rossiya","Neuilly-sur-Seine, France",http://www.tate.org.uk/art/artists/wassily-kandinsky-1382
 7631,"Kane, Alan",M,1961,0,"Nottingham, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/alan-kane-7631
 1383,"Kanovitz, Howard",M,1929,2009,"Fall River, United States",Unknown,http://www.tate.org.uk/art/artists/howard-kanovitz-1383
-18243,"Kanwar, Amar",Not specified,1964,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/amar-kanwar-18243
+18243,"Kanwar, Amar",-,1964,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/amar-kanwar-18243
 1384,"Kapoor, Anish",M,1954,0,"Bombay, Bharat",Unknown,http://www.tate.org.uk/art/artists/anish-kapoor-1384
 15930,"Karamustafa, Gulsun",F,1946,0,Türkiye,Unknown,http://www.tate.org.uk/art/artists/gulsun-karamustafa-15930
 2734,"Karshan, Linda",F,1947,0,"Minneapolis, United States",Unknown,http://www.tate.org.uk/art/artists/linda-karshan-2734
@@ -1718,7 +1718,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2406,"Khakhar, Bhupen",M,1934,2003,"Bombay, Bharat","Baroda, Bharat",http://www.tate.org.uk/art/artists/bhupen-khakhar-2406
 14889,"Kher, Bharti",F,1969,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/bharti-kher-14889
 6589,"Kiaer, Ian",M,1971,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/ian-kiaer-6589
-5676,"Kibardin, Georgii",Not specified,1903,1963,Unknown,Unknown,http://www.tate.org.uk/art/artists/georgii-kibardin-5676
+5676,"Kibardin, Georgii",-,1903,1963,Unknown,Unknown,http://www.tate.org.uk/art/artists/georgii-kibardin-5676
 1405,"Kidner, Michael",M,1917,2009,"Kettering, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/michael-kidner-1405
 1406,"Kiefer, Anselm",M,1945,0,"Donaueschingen, Deutschland",Unknown,http://www.tate.org.uk/art/artists/anselm-kiefer-1406
 3068,"Kienholz, Edward",M,1927,1994,"Fairfield, United States","Hope, United States",http://www.tate.org.uk/art/artists/edward-kienholz-3068
@@ -1759,9 +1759,9 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1425,"Knights, Winifred",F,1899,1947,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/winifred-knights-1425
 1426,"Knowles, Justin",M,1935,2004,"Exeter, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/justin-knowles-1426
 1427,"Koch, Eleanor",F,1926,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/eleanor-koch-1427
-17121,"Kochergin, Nikolai",Not specified,1897,1974,Unknown,Unknown,http://www.tate.org.uk/art/artists/nikolai-kochergin-17121
+17121,"Kochergin, Nikolai",-,1897,1974,Unknown,Unknown,http://www.tate.org.uk/art/artists/nikolai-kochergin-17121
 1428,"Koenig, Ghisha",F,1921,1993,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/ghisha-koenig-1428
-5645,"Kogout, Nikolai",Not specified,1891,1959,Unknown,Unknown,http://www.tate.org.uk/art/artists/nikolai-kogout-5645
+5645,"Kogout, Nikolai",-,1891,1959,Unknown,Unknown,http://www.tate.org.uk/art/artists/nikolai-kogout-5645
 10838,"Koh, Terence",M,1977,0,"Beijing, Zhonghua",Unknown,http://www.tate.org.uk/art/artists/terence-koh-10838
 1429,"Kohn, Misch",F,1916,2002,"Kokomo, United States","Castro Valley, United States",http://www.tate.org.uk/art/artists/misch-kohn-1429
 1430,"Kokoschka, Oskar",M,1886,1980,"Pöchlarn, Österreich","Montreux, Schweiz",http://www.tate.org.uk/art/artists/oskar-kokoschka-1430
@@ -1770,7 +1770,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1431,"Kolíbal, Stanislav",M,1925,0,"Orlová, Ceská Republika",Unknown,http://www.tate.org.uk/art/artists/stanislav-kolibal-1431
 10345,"Koller, Július",M,1939,2007,"Pieštany, Slovenská Republika","Bratislava, Slovenská Republika",http://www.tate.org.uk/art/artists/julius-koller-10345
 15101,"Komatsu, André",M,1978,0,"São Paulo, Brasil",Unknown,http://www.tate.org.uk/art/artists/andre-komatsu-15101
-14424,"Komura, Kiyohiko",Not specified,1899,1969,Unknown,Unknown,http://www.tate.org.uk/art/artists/kiyohiko-komura-14424
+14424,"Komura, Kiyohiko",-,1899,1969,Unknown,Unknown,http://www.tate.org.uk/art/artists/kiyohiko-komura-14424
 1432,"Konzal, Joseph",M,1905,1994,"Milwaukee, United States","New York, United States",http://www.tate.org.uk/art/artists/joseph-konzal-1432
 10562,"Koo, Jeong-A",F,1967,0,Taehan Min'guk,Unknown,http://www.tate.org.uk/art/artists/koo-jeong-a-10562
 1433,"Kooning, Willem de",M,1904,1997,"Rotterdam, Nederland","East Hampton, United States",http://www.tate.org.uk/art/artists/willem-de-kooning-1433
@@ -1784,7 +1784,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1437,"Kosuth, Joseph",M,1945,0,"Toledo, United States",Unknown,http://www.tate.org.uk/art/artists/joseph-kosuth-1437
 1438,"Kounellis, Jannis",M,1936,0,"Piraiévs, Ellás",Unknown,http://www.tate.org.uk/art/artists/jannis-kounellis-1438
 10668,"Kovanda, Jiri",M,1953,0,"Praha, Ceská Republika",Unknown,http://www.tate.org.uk/art/artists/jiri-kovanda-10668
-17127,"Kozlinsky, Vladimir",Not specified,1891,1967,Unknown,Unknown,http://www.tate.org.uk/art/artists/vladimir-kozlinsky-17127
+17127,"Kozlinsky, Vladimir",-,1891,1967,Unknown,Unknown,http://www.tate.org.uk/art/artists/vladimir-kozlinsky-17127
 1439,"Kramer, Harry",M,1925,0,"Lingen, Deutschland",Unknown,http://www.tate.org.uk/art/artists/harry-kramer-1439
 1440,"Kramer, Jacob",M,1892,1962,Ukrayina,Unknown,http://www.tate.org.uk/art/artists/jacob-kramer-1440
 10009,"Krasinski, Edward",M,1925,2004,"Lutsk, Ukrayina","Warszawa, Polska",http://www.tate.org.uk/art/artists/edward-krasinski-10009
@@ -1802,19 +1802,19 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 10169,"Kuri, Gabriel",M,1970,0,México,Unknown,http://www.tate.org.uk/art/artists/gabriel-kuri-10169
 8094,"Kusama, Yayoi",F,1929,0,"Matsumoto, Nihon",Unknown,http://www.tate.org.uk/art/artists/yayoi-kusama-8094
 1450,"Kushner, Robert",M,1949,0,"Pasedena, United States",Unknown,http://www.tate.org.uk/art/artists/robert-kushner-1450
-10957,KwieKulik,Not specified,1945,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/kwiekulik-przemyslaw-kwiek-zofia-kulik-10957
+10957,KwieKulik,-,1945,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/kwiekulik-przemyslaw-kwiek-zofia-kulik-10957
 1453,"La Dell, Edwin",M,1914,1970,"Coventry, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/edwin-la-dell-1453
 6359,"La Noue, Terence",M,1941,0,"Hammond, United States",Unknown,http://www.tate.org.uk/art/artists/terence-la-noue-6359
 331,"La Thangue, Henry Herbert",M,1859,1929,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/henry-herbert-la-thangue-331
 1451,"Laabs, Hans",M,1915,2004,"Trzebiatów, Polska","Berlin, Deutschland",http://www.tate.org.uk/art/artists/hans-laabs-1451
 2622,"Labruzzi, Carlo",M,1748,1817,"Roma, Italia","Perugia, Italia",http://www.tate.org.uk/art/artists/carlo-labruzzi-2622
 1452,"Lacey, Bruce",M,1927,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/bruce-lacey-1452
-13736,"Lacy, Suzanne",Not specified,1945,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/suzanne-lacy-13736
+13736,"Lacy, Suzanne",-,1945,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/suzanne-lacy-13736
 316,"Ladbrooke, Robert",M,1770,1842,"Norwich, United Kingdom","Norwich, United Kingdom",http://www.tate.org.uk/art/artists/robert-ladbrooke-316
 317,"Laidlay, William James",M,1846,1912,Unknown,Unknown,http://www.tate.org.uk/art/artists/william-james-laidlay-317
 1454,"Laing, Gerald",M,1936,2011,"Newcastle upon Tyne, United Kingdom","Scotland, United Kingdom",http://www.tate.org.uk/art/artists/gerald-laing-1454
 2511,"Laing, J.S.",M,1847,1847,Unknown,Unknown,http://www.tate.org.uk/art/artists/js-laing-2511
-2633,Lairesse,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/lairesse-2633
+2633,Lairesse,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/lairesse-2633
 2639,"Lalic, Maria",F,1952,0,"Yorkshire, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/maria-lalic-2639
 1455,"Lam, Wifredo",M,1902,1982,"Sagua la Grande, Cuba","Paris, France",http://www.tate.org.uk/art/artists/wifredo-lam-1455
 1456,"Lamb, Henry",M,1883,1960,"Adelaide, Australia","Salisbury, United Kingdom",http://www.tate.org.uk/art/artists/henry-lamb-1456
@@ -1842,7 +1842,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 325,"Lane, Theodore",M,1800,1828,Unknown,Unknown,http://www.tate.org.uk/art/artists/theodore-lane-325
 1465,"Lang, Daniel",M,1935,0,"Tulsa, United States",Unknown,http://www.tate.org.uk/art/artists/daniel-lang-1465
 9075,"Lange, Dorothea",F,1895,1965,"Hoboken, United States",Unknown,http://www.tate.org.uk/art/artists/dorothea-lange-9075
-2599,"Langlands and Bell, Ben and Nikki",Not specified,1955,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/langlands-bell-ben-langlands-and-nikki-bell-2599
+2599,"Langlands and Bell, Ben and Nikki",-,1955,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/langlands-bell-ben-langlands-and-nikki-bell-2599
 1466,"Langlois, Denis",M,1945,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/denis-langlois-1466
 326,"Lanteri, Edouard",M,1848,1917,"Auxerre, France","London, United Kingdom",http://www.tate.org.uk/art/artists/edouard-lanteri-326
 1467,"Lanyon, Peter",M,1918,1964,"Saint Ives, United Kingdom","Taunton, United Kingdom",http://www.tate.org.uk/art/artists/peter-lanyon-1467
@@ -1859,7 +1859,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2436,"Laurence, Samuel",M,1812,1884,Unknown,Unknown,http://www.tate.org.uk/art/artists/samuel-laurence-2436
 1472,"Laurencin, Marie",F,1885,1956,"Paris, France","Paris, France",http://www.tate.org.uk/art/artists/marie-laurencin-1472
 1473,"Laurens, Henri",M,1885,1954,"Paris, France","Paris, France",http://www.tate.org.uk/art/artists/henri-laurens-1473
-1474,"Laurie, Robin",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/robin-laurie-1474
+1474,"Laurie, Robin",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/robin-laurie-1474
 1475,"Lausen, Jens",M,1937,0,"Hamburg, Deutschland",Unknown,http://www.tate.org.uk/art/artists/jens-lausen-1475
 332,"Lavery, Sir John",M,1856,1941,"Belfast, United Kingdom","Kilkenny, Éire",http://www.tate.org.uk/art/artists/sir-john-lavery-332
 2623,"Law, Alfred",M,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/alfred-law-2623
@@ -1875,11 +1875,11 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1481,"Le Brun, Christopher, PRA",M,1951,0,"Portsmouth, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/christopher-le-brun-pra-1481
 338,"Le Capelain, Jean",M,1814,1848,Saint Hélier,Jersey,http://www.tate.org.uk/art/artists/jean-le-capelain-338
 1483,Le Corbusier,M,1887,1965,"La Chaux-de-Fonds, Schweiz","Roquebrune, France",http://www.tate.org.uk/art/artists/le-corbusier-charles-edouard-jeanneret-1483
-17924,"Le Marchand, David",Not specified,1674,1726,Unknown,Unknown,http://www.tate.org.uk/art/artists/david-le-marchand-17924
+17924,"Le Marchand, David",-,1674,1726,Unknown,Unknown,http://www.tate.org.uk/art/artists/david-le-marchand-17924
 1494,"Le Parc, Julio",M,1928,0,"Mendoza, Argentina",Unknown,http://www.tate.org.uk/art/artists/julio-le-parc-1494
 345,"Le Piper, Francis",M,1640,1695,Unknown,Unknown,http://www.tate.org.uk/art/artists/francis-le-piper-345
 1495,"Le Sidaner, Henri",M,1862,1939,"Mauritius, Mauritius",Unknown,http://www.tate.org.uk/art/artists/henri-le-sidaner-1495
-17197,"Le Sueur, Hubert",Not specified,1590,1658,Unknown,Unknown,http://www.tate.org.uk/art/artists/hubert-le-sueur-17197
+17197,"Le Sueur, Hubert",-,1590,1658,Unknown,Unknown,http://www.tate.org.uk/art/artists/hubert-le-sueur-17197
 1503,"Le Witt, Jan",M,1907,1991,"Czestochowa, Polska",Unknown,http://www.tate.org.uk/art/artists/jan-le-witt-1503
 1478,"Leach, Bernard",M,1887,1979,"Hong Kong, Zhonghua",Unknown,http://www.tate.org.uk/art/artists/bernard-leach-1478
 7651,"Leach, David",M,1911,2005,"Tokyo, Nihon",Unknown,http://www.tate.org.uk/art/artists/david-leach-7651
@@ -1888,7 +1888,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2642,"Leaman, Jonathan",M,1954,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/jonathan-leaman-2642
 10681,"Leapman, Edwina",F,1934,0,"Hampshire, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/edwina-leapman-10681
 337,"Lear, Edward",M,1812,1888,"Greater London, United Kingdom","San Remo, Italia",http://www.tate.org.uk/art/artists/edward-lear-337
-5813,"Lebedev, Alexander",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/alexander-lebedev-5813
+5813,"Lebedev, Alexander",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/alexander-lebedev-5813
 1482,"Leck, Bart van der",M,1876,1958,"Utrecht, Nederland","Blaricum, Nederland",http://www.tate.org.uk/art/artists/bart-van-der-leck-1482
 6877,"Leckey, Mark",M,1964,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/mark-leckey-6877
 1484,"Ledger, Janet",F,1931,0,"Northampton, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/janet-ledger-1484
@@ -1973,7 +1973,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 354,"Logsdail, William",M,1859,1944,"Lincoln, United Kingdom","Oxfordshire, United Kingdom",http://www.tate.org.uk/art/artists/william-logsdail-354
 1523,"Lohse, Richard Paul",M,1902,1988,"Zürich, Schweiz",Unknown,http://www.tate.org.uk/art/artists/richard-paul-lohse-1523
 1524,"Loker, John",M,1938,0,"Leeds, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-loker-1524
-1138,London Gallery,Not specified,1948,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/the-london-gallery-vaughan-grylls-nicholas-wegner-1138
+1138,London Gallery,-,1948,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/the-london-gallery-vaughan-grylls-nicholas-wegner-1138
 2570,"Long, Amelia",F,1772,1837,"London, United Kingdom","Kent, United Kingdom",http://www.tate.org.uk/art/artists/amelia-long-lady-farnborough-2570
 2571,"Long, Charles",M,1760,1838,Unknown,"Kent, United Kingdom",http://www.tate.org.uk/art/artists/charles-long-baron-farnborough-2571
 1525,"Long, Richard",M,1945,0,"Bristol, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/richard-long-1525
@@ -1996,11 +1996,11 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 356,"Lucas, John Seymour",M,1849,1923,Unknown,Unknown,http://www.tate.org.uk/art/artists/john-seymour-lucas-356
 2643,"Lucas, Sarah",F,1962,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/sarah-lucas-2643
 2341,Lucio,M,1929,1998,"Madrid, España",Unknown,http://www.tate.org.uk/art/artists/lucio-lucio-munoz-2341
-1535,Lucy and Eegyudluk,Not specified,1918,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/lucy-and-eegyudluk-1535
+1535,Lucy and Eegyudluk,-,1918,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/lucy-and-eegyudluk-1535
 1536,"Lundquist, Evert",M,1904,0,"Stockholm, Sverige",Unknown,http://www.tate.org.uk/art/artists/evert-lundquist-1536
 8594,"Lüpertz, Markus",M,1941,0,"Liberec, Ceská Republika",Unknown,http://www.tate.org.uk/art/artists/markus-lupertz-8594
-16926,"Lye, Len",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/len-lye-16926
-9403,"M/M (Paris, France)",Not specified,1992,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/mm-paris-france-9403
+16926,"Lye, Len",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/len-lye-16926
+9403,"M/M (Paris, France)",-,1992,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/mm-paris-france-9403
 357,"Macallum, Hamilton",M,1841,1896,"Argyll, United Kingdom","Beer, United Kingdom",http://www.tate.org.uk/art/artists/hamilton-macallum-357
 2440,"Macartney, Carlile Henry Hayes",M,1842,1924,Unknown,Unknown,http://www.tate.org.uk/art/artists/carlile-henry-hayes-macartney-2440
 358,"Macbeth, Robert Walker",M,1848,1910,"Glasgow, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/robert-walker-macbeth-358
@@ -2016,7 +2016,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1541,"Machin, Arnold",M,1911,1999,Stoke on Trent,"Staffordshire, United Kingdom",http://www.tate.org.uk/art/artists/arnold-machin-1541
 7507,"Maciá, Oswaldo",M,1960,0,"Cartagena, Colombia",Unknown,http://www.tate.org.uk/art/artists/oswaldo-macia-7507
 1263,"Mack, Heinz",M,1931,0,"Lollar, Deutschland",Unknown,http://www.tate.org.uk/art/artists/heinz-mack-1263
-1542,"Mackay, Alex",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/alex-mackay-1542
+1542,"Mackay, Alex",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/alex-mackay-1542
 1543,"Mackennal, Sir Bertram",M,1863,1931,"Melbourne, Australia","Torquay, United Kingdom",http://www.tate.org.uk/art/artists/sir-bertram-mackennal-1543
 1544,"Mackenzie, Alexander",M,1923,2002,"Liverpool, United Kingdom","Penzance, United Kingdom",http://www.tate.org.uk/art/artists/alexander-mackenzie-1544
 1545,"Mackenzie, Alix",F,1922,1962,Unknown,Unknown,http://www.tate.org.uk/art/artists/alix-mackenzie-1545
@@ -2082,7 +2082,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 369,"Marshall, Benjamin",M,1768,1835,"Leicestershire, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/benjamin-marshall-369
 8806,"Marshall, William",M,1923,2007,"Cornwall, United Kingdom",Hayle,http://www.tate.org.uk/art/artists/william-marshall-8806
 370,"Marshall, William Calder",M,1813,1894,"Edinburgh, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/william-calder-marshall-370
-2515,"Marsingall, A",Not specified,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/a-marsingall-2515
+2515,"Marsingall, A",-,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/a-marsingall-2515
 1583,"Martin, Agnes",F,1912,2004,Canada,Unknown,http://www.tate.org.uk/art/artists/agnes-martin-1583
 15125,"Martin, Anne",F,1936,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/anne-martin-15125
 2746,"Martin, Barry",M,1943,0,"Amersham, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/barry-martin-2746
@@ -2090,7 +2090,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 6591,"Martin, Daria",F,1973,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/daria-martin-6591
 2442,"Martin, Elias",M,1739,1818,Stockholm,Sverige,http://www.tate.org.uk/art/artists/elias-martin-2442
 1584,"Martin, Frank",M,1921,2005,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/frank-martin-1584
-2581,"Martin, J., of Canterbury",Not specified,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/j-martin-of-canterbury-2581
+2581,"Martin, J., of Canterbury",-,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/j-martin-of-canterbury-2581
 371,"Martin, John",M,1789,1854,"Haydon Bridge, United Kingdom",Douglas,http://www.tate.org.uk/art/artists/john-martin-371
 1585,"Martin, Kenneth",M,1905,1984,"Sheffield, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/kenneth-martin-1585
 1586,"Martin, Mary",F,1907,1969,"Folkestone, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/mary-martin-1586
@@ -2106,7 +2106,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1589,"Mason, Raymond",M,1922,2010,"Birmingham, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/raymond-mason-1589
 1590,"Masson, André",M,1896,1987,"Haute-Corse, France","Paris, France",http://www.tate.org.uk/art/artists/andre-masson-1590
 374,Master of the Giants,M,1755,1834,Unknown,Unknown,http://www.tate.org.uk/art/artists/master-of-the-giants-prince-hoare-374
-2516,"Masters, E.",Not specified,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/e-masters-2516
+2516,"Masters, E.",-,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/e-masters-2516
 1592,"Mathews, Denis",M,1913,1997,"Hampstead, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/denis-mathews-1592
 1593,"Matisse, Henri",M,1869,1954,"Le Cateau-Cambrésis, France","Nice, France",http://www.tate.org.uk/art/artists/henri-matisse-1593
 1591,"Matschinsky-Denninghof, Brigitte",F,1923,0,"Berlin, Deutschland",Unknown,http://www.tate.org.uk/art/artists/brigitte-matschinsky-denninghof-1591
@@ -2120,7 +2120,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1599,"Maxwell, John",M,1905,1962,"England, United Kingdom","England, United Kingdom",http://www.tate.org.uk/art/artists/john-maxwell-1599
 2367,"May, Nicholas",M,1962,0,"Limavady, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/nicholas-may-2367
 1600,"May, Phil",M,1864,1903,"Leeds, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/phil-may-1600
-5672,"Mayakovsky, Vladimir",Not specified,1893,1930,Unknown,Unknown,http://www.tate.org.uk/art/artists/vladimir-mayakovsky-5672
+5672,"Mayakovsky, Vladimir",-,1893,1930,Unknown,Unknown,http://www.tate.org.uk/art/artists/vladimir-mayakovsky-5672
 1601,"Mayor, Fred",M,1865,1916,"North Yorkshire, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/fred-mayor-1601
 1602,"Maze, Paul",M,1887,1979,"Le Havre, France","Chichester, United Kingdom",http://www.tate.org.uk/art/artists/paul-maze-1602
 7491,"McCall, Anthony",M,1946,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/anthony-mccall-7491
@@ -2161,14 +2161,14 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2646,"Melland, Sylvia",F,1906,1993,"Altrincham, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/sylvia-melland-2646
 1620,"Mellis, Margaret",F,1914,2009,Zhonghua,Unknown,http://www.tate.org.uk/art/artists/margaret-mellis-1620
 11955,"Mellors, Nathaniel",M,1974,0,"Doncaster, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/nathaniel-mellors-11955
-17135,"Melnikov, Dmitrii",Not specified,1899,1962,Unknown,Unknown,http://www.tate.org.uk/art/artists/dmitrii-melnikov-17135
+17135,"Melnikov, Dmitrii",-,1899,1962,Unknown,Unknown,http://www.tate.org.uk/art/artists/dmitrii-melnikov-17135
 375,"Melville, Arthur",M,1855,1904,"Angus, United Kingdom","Whiteley Village, United Kingdom",http://www.tate.org.uk/art/artists/arthur-melville-375
 11167,"Mendieta, Ana",F,1948,1985,"La Habana, Cuba","New York, United States",http://www.tate.org.uk/art/artists/ana-mendieta-11167
 1621,"Meneeley, Ed",M,1927,0,"Wilkes-Barre, United States",Unknown,http://www.tate.org.uk/art/artists/ed-meneeley-1621
 1622,"Meninsky, Bernard",M,1891,1950,Ukrayina,"London, United Kingdom",http://www.tate.org.uk/art/artists/bernard-meninsky-1622
 376,"Menpes, Mortimer",M,1855,1939,"Port Adelaide, Australia",Unknown,http://www.tate.org.uk/art/artists/mortimer-menpes-376
 377,"Mercier, Philip",M,1689,1760,"Berlin, Deutschland","London, United Kingdom",http://www.tate.org.uk/art/artists/philip-mercier-377
-2538,"Merivale, Francis",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/francis-merivale-2538
+2538,"Merivale, Francis",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/francis-merivale-2538
 378,"Merritt, Anna Lea",F,1844,1930,"Philadelphia, United States","Hurstbourne Tarrant, United Kingdom",http://www.tate.org.uk/art/artists/anna-lea-merritt-378
 1623,"Merz, Mario",M,1925,2003,"Milano, Italia","Milano, Italia",http://www.tate.org.uk/art/artists/mario-merz-1623
 12525,"Merz, Marisa",F,1931,0,"Torino, Italia",Unknown,http://www.tate.org.uk/art/artists/marisa-merz-12525
@@ -2237,7 +2237,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2298,"Moody, Ronald",M,1900,1984,"Kingston, Jamaica","London, United Kingdom",http://www.tate.org.uk/art/artists/ronald-moody-2298
 1656,"Moon, Jeremy",M,1934,1973,"Cheshire, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/jeremy-moon-1656
 1657,"Moon, Michael",M,1937,0,"Edinburgh, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/michael-moon-1657
-5648,"Moor, Dmitrii",Not specified,1883,1946,Unknown,Unknown,http://www.tate.org.uk/art/artists/dmitrii-moor-5648
+5648,"Moor, Dmitrii",-,1883,1946,Unknown,Unknown,http://www.tate.org.uk/art/artists/dmitrii-moor-5648
 2518,"Moore Park, Carton",M,1877,1956,Unknown,Unknown,http://www.tate.org.uk/art/artists/carton-moore-park-2518
 382,"Moore, Albert",M,1841,1893,"York, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/albert-moore-382
 13715,"Moore, Gareth",M,1975,0,"Matsqui, Canada",Unknown,http://www.tate.org.uk/art/artists/gareth-moore-13715
@@ -2245,14 +2245,14 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1659,"Moore, Henry, OM, CH",M,1898,1986,"Castleford, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/henry-moore-om-ch-1659
 2283,"Moore, James",M,1762,1799,Unknown,"London, United Kingdom",http://www.tate.org.uk/art/artists/james-moore-2283
 13683,"Moore, Raymond",M,1920,1987,"Wallasey, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/raymond-moore-13683
-2551,"Moore, T.",Not specified,1700,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/t-moore-2551
+2551,"Moore, T.",-,1700,1799,Unknown,Unknown,http://www.tate.org.uk/art/artists/t-moore-2551
 11554,"Moran, Katy",F,1975,0,"Manchester, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/katy-moran-11554
 1660,"Morandi, Giorgio",M,1890,1964,"Bologna, Italia","Bologna, Italia",http://www.tate.org.uk/art/artists/giorgio-morandi-1660
 2196,"Mordmüller, Rainer G",M,1941,0,Deutschland,Unknown,http://www.tate.org.uk/art/artists/rainer-g-mordmuller-2196
 384,"More, Jacob",M,1740,1793,"Edinburgh, United Kingdom","Roma, Italia",http://www.tate.org.uk/art/artists/jacob-more-384
 1661,"Morellet, François",M,1926,0,"Cholet, France","Cholet, France",http://www.tate.org.uk/art/artists/francois-morellet-1661
 1662,"Moreton, Warwick",M,1947,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/warwick-moreton-1662
-2634,Morin,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/morin-2634
+2634,Morin,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/morin-2634
 2272,"Morison, Colin",M,1732,1810,"Scotland, United Kingdom","Roma, Italia",http://www.tate.org.uk/art/artists/colin-morison-2272
 1663,"Morisot, Berthe",F,1841,1895,"Bourges, France","Paris, France",http://www.tate.org.uk/art/artists/berthe-morisot-1663
 11595,"Moriyama, Daido",M,1938,0,"Osaka, Nihon",Unknown,http://www.tate.org.uk/art/artists/daido-moriyama-11595
@@ -2377,7 +2377,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 8244,"Oehlen, Albert",M,1954,0,"Krefeld, Deutschland",Unknown,http://www.tate.org.uk/art/artists/albert-oehlen-8244
 1712,"Oelman, Michael",M,1941,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/michael-oelman-1712
 2543,"Ofili, Chris",M,1968,0,"Manchester, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/chris-ofili-2543
-10282,"Ohanian, Melik",Not specified,1969,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/melik-ohanian-10282
+10282,"Ohanian, Melik",-,1969,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/melik-ohanian-10282
 2718,"O'Hara, Frank",M,1925,1966,"Baltimore Independent City, United States",Unknown,http://www.tate.org.uk/art/artists/frank-ohara-2718
 7730,"Oiticica, Hélio",M,1937,1980,"Rio de Janeiro, Brasil","Rio de Janeiro, Brasil",http://www.tate.org.uk/art/artists/helio-oiticica-7730
 16018,"Ojeikere, J.D. Okhai",M,1930,2014,Nigeria,Unknown,http://www.tate.org.uk/art/artists/jd-okhai-ojeikere-16018
@@ -2412,7 +2412,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2685,"Orozco, Gabriel",M,1962,0,México,Unknown,http://www.tate.org.uk/art/artists/gabriel-orozco-2685
 1725,"Orpen, Sir William",M,1878,1931,"Dublin, Éire","London, United Kingdom",http://www.tate.org.uk/art/artists/sir-william-orpen-1725
 1726,"Orr, Chris",M,1943,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/chris-orr-1726
-17008,"Orrock, James",Not specified,1829,1913,Unknown,Unknown,http://www.tate.org.uk/art/artists/james-orrock-17008
+17008,"Orrock, James",-,1829,1913,Unknown,Unknown,http://www.tate.org.uk/art/artists/james-orrock-17008
 8133,"Ortega, Damián",M,1967,0,"Ciudad de México, México",Unknown,http://www.tate.org.uk/art/artists/damian-ortega-8133
 2380,"Ortman, George",M,1926,0,"Oakland, United States",Unknown,http://www.tate.org.uk/art/artists/george-ortman-2380
 11956,"Osbaldeston, David",M,1968,0,"Middlesbrough, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/david-osbaldeston-11956
@@ -2442,7 +2442,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1735,"Palmer, Garrick",M,1933,0,"Portsmouth, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/garrick-palmer-1735
 1736,"Palmer, Roger",M,1946,0,"Portsmouth, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/roger-palmer-1736
 411,"Palmer, Samuel",M,1805,1881,"London, United Kingdom","Reigate, United Kingdom",http://www.tate.org.uk/art/artists/samuel-palmer-411
-18372,"Pankhurst, Sylvia",Not specified,1882,1960,Unknown,Unknown,http://www.tate.org.uk/art/artists/sylvia-pankhurst-18372
+18372,"Pankhurst, Sylvia",-,1882,1960,Unknown,Unknown,http://www.tate.org.uk/art/artists/sylvia-pankhurst-18372
 12007,"Panting, John",M,1940,1974,New Zealand,"London, United Kingdom",http://www.tate.org.uk/art/artists/john-panting-12007
 1737,"Paolini, Giulio",M,1940,0,"Genova, Italia",Unknown,http://www.tate.org.uk/art/artists/giulio-paolini-1737
 1738,"Paolozzi, Sir Eduardo",M,1924,2005,"Edinburgh, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/sir-eduardo-paolozzi-1738
@@ -2470,7 +2470,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1747,"Patrick, J. McIntosh",M,1907,1998,"Dundee, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/j-mcintosh-patrick-1747
 2652,"Patterson, Richard",M,1963,0,"Leatherhead, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/richard-patterson-2652
 2397,"Patterson, Simon",M,1967,0,"Leatherhead, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/simon-patterson-2397
-18267,"Paul, Pallavi",Not specified,1986,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/pallavi-paul-18267
+18267,"Paul, Pallavi",-,1986,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/pallavi-paul-18267
 5493,"Payne and Relph, Oliver and Nick",M,1977,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/oliver-payne-and-nick-relph-5493
 7120,"Payne, Oliver",M,1977,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/oliver-payne-7120
 2225,"Payne, William",M,1776,1830,"Plymouth, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/william-payne-2225
@@ -2480,7 +2480,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1749,"Pearlstein, Philip",M,1924,0,"Pittsburgh, United States",Unknown,http://www.tate.org.uk/art/artists/philip-pearlstein-1749
 2200,"Pears, Charles",M,1873,1958,"Pontefract, United Kingdom","Truro, United Kingdom",http://www.tate.org.uk/art/artists/charles-pears-2200
 1750,"Pearsh, Kevin",M,1951,0,"Melbourne, Australia",Unknown,http://www.tate.org.uk/art/artists/kevin-pearsh-1750
-11736,"Peçanha, Osmar",Not specified,1926,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/osmar-pecanha-11736
+11736,"Peçanha, Osmar",-,1926,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/osmar-pecanha-11736
 14145,"Peeters, Henk",M,1925,0,"s Gravenhage, Nederland",Unknown,http://www.tate.org.uk/art/artists/henk-peeters-14145
 1751,"Pegram, Henry Alfred",M,1862,1937,"London, United Kingdom","Hampstead, United Kingdom",http://www.tate.org.uk/art/artists/henry-alfred-pegram-1751
 1752,"Penagos, Rafael",M,1941,0,"Santafé de Bogotá, D.C., Colombia",Unknown,http://www.tate.org.uk/art/artists/rafael-penagos-1752
@@ -2525,7 +2525,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1767,"Picasso, Pablo",M,1881,1973,"Málaga, España","Mougins, France",http://www.tate.org.uk/art/artists/pablo-picasso-1767
 1769,"Piché, Roland",M,1938,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/roland-piche-1769
 1768,"Pichet, Roland",M,1936,0,"Québec, Canada",Unknown,http://www.tate.org.uk/art/artists/roland-pichet-1768
-5673,"Pichugin, Sergei Ivanovich",Not specified,1881,1971,Unknown,Unknown,http://www.tate.org.uk/art/artists/sergei-ivanovich-pichugin-5673
+5673,"Pichugin, Sergei Ivanovich",-,1881,1971,Unknown,Unknown,http://www.tate.org.uk/art/artists/sergei-ivanovich-pichugin-5673
 1770,"Pickard, Louise",F,1865,1928,"Kingston-Upon-Hull, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/louise-pickard-1770
 424,"Pickersgill, Frederick Richard",M,1820,1900,"London, United Kingdom","Isle Of Wight, United States",http://www.tate.org.uk/art/artists/frederick-richard-pickersgill-424
 2582,"Pickersgill, Henry Hall",M,1812,1861,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/henry-hall-pickersgill-2582
@@ -2540,7 +2540,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 4955,"Piper, Keith",M,1960,0,"Malta, Malta",Unknown,http://www.tate.org.uk/art/artists/keith-piper-4955
 2408,"Pippin, Steven",M,1960,0,"Redhill, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/steven-pippin-2408
 2254,"Pirandello, Fausto",M,1899,1975,"Roma, Italia","Roma, Italia",http://www.tate.org.uk/art/artists/fausto-pirandello-2254
-11741,"Pires, Paulo",Not specified,1928,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/paulo-pires-11741
+11741,"Pires, Paulo",-,1928,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/paulo-pires-11741
 1775,"Pirie, Sir George",M,1863,1946,"Campbeltown, United Kingdom","Glasgow, United Kingdom",http://www.tate.org.uk/art/artists/sir-george-pirie-1775
 1776,"Pissarro, Camille",M,1830,1903,Charlotte Amalie,"Paris, France",http://www.tate.org.uk/art/artists/camille-pissarro-1776
 11753,"Pissarro, Esther",F,1870,1951,Unknown,Unknown,http://www.tate.org.uk/art/artists/esther-pissarro-11753
@@ -2551,13 +2551,13 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2449,"Place, Francis",M,1647,1728,"Durham, United Kingdom","York, United Kingdom",http://www.tate.org.uk/art/artists/francis-place-2449
 9377,"Plackman, Carl",M,1943,2004,"Huddersfield, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/carl-plackman-9377
 1779,"Platt, John",M,1886,1967,"Leek, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-platt-1779
-12600,"Plender, Olivia",Not specified,1977,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/olivia-plender-12600
+12600,"Plender, Olivia",-,1977,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/olivia-plender-12600
 8802,"Pleydell-Bouverie, Katherine",F,1895,1985,Unknown,Unknown,http://www.tate.org.uk/art/artists/katherine-pleydell-bouverie-8802
 1780,"Plowman, Chris",M,1952,2009,"Fareham, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/chris-plowman-1780
 1781,"Plumb, John",M,1927,2008,"Luton, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-plumb-1781
 2450,"Pocock, Isaac",M,1782,1835,Bristol,"England, United Kingdom",http://www.tate.org.uk/art/artists/isaac-pocock-2450
 427,"Pocock, Nicholas",M,1741,1821,Bristol,"England, United Kingdom",http://www.tate.org.uk/art/artists/nicholas-pocock-427
-1783,"Poirier, Anne and Patrick",Not specified,1942,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/anne-poirier-and-patrick-poirier-1783
+1783,"Poirier, Anne and Patrick",-,1942,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/anne-poirier-and-patrick-poirier-1783
 1784,"Poliakoff, Serge",M,1900,1969,"Moskva, Rossiya","Paris, France",http://www.tate.org.uk/art/artists/serge-poliakoff-1784
 2213,"Polke, Sigmar",M,1941,2010,Niederschlesien,"Köln, Deutschland",http://www.tate.org.uk/art/artists/sigmar-polke-2213
 428,"Pollard, James",M,1792,1867,"Islington, United Kingdom","Chelsea, United Kingdom",http://www.tate.org.uk/art/artists/james-pollard-428
@@ -2612,7 +2612,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2451,"Pyne, William Henry",M,1769,1843,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/william-henry-pyne-2451
 3042,"Quadri, Saleem Arif",M,1949,0,"Hyderabad, Bharat",Unknown,http://www.tate.org.uk/art/artists/saleem-arif-quadri-3042
 1810,"Quaytman, Harvey",M,1937,0,"New York, United States",Unknown,http://www.tate.org.uk/art/artists/harvey-quaytman-1810
-15967,"Quaytman, R. H.",Not specified,1961,0,"Boston, United States",Unknown,http://www.tate.org.uk/art/artists/r-h-quaytman-15967
+15967,"Quaytman, R. H.",-,1961,0,"Boston, United States",Unknown,http://www.tate.org.uk/art/artists/r-h-quaytman-15967
 8056,"Quinn, Ged",M,1963,0,"Liverpool, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/ged-quinn-8056
 2600,"Quinn, Marc",M,1964,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/marc-quinn-2600
 7719,"Raad, Walid",M,1967,0,Al-Lubnan,Unknown,http://www.tate.org.uk/art/artists/walid-raad-7719
@@ -2647,7 +2647,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2243,"Redon, Odilon",M,1840,1916,"Bordeaux, France","Paris, France",http://www.tate.org.uk/art/artists/odilon-redon-2243
 1821,"Redpath, Anne",F,1895,1965,"Galashiels, United Kingdom","Edinburgh, United Kingdom",http://www.tate.org.uk/art/artists/anne-redpath-1821
 2783,"Reeb, David",M,1952,0,"Rehovot, Yisra'el",Unknown,http://www.tate.org.uk/art/artists/david-reeb-2783
-18896,"Reeve, Hester",Not specified,1965,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/hester-reeve-18896
+18896,"Reeve, Hester",-,1965,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/hester-reeve-18896
 1822,"Reeve, Russell",M,1895,1970,"Hethersett, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/russell-reeve-1822
 1823,"Rego, Paula",F,1935,0,"Lisboa, Portugal",Unknown,http://www.tate.org.uk/art/artists/paula-rego-1823
 14791,"Reid, Clunie",F,1971,0,"Pembury, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/clunie-reid-14791
@@ -2666,7 +2666,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1828,"Renoir, Auguste",M,1841,1919,"Limoges, France","Cagnes-sur-Mer, France",http://www.tate.org.uk/art/artists/auguste-renoir-1828
 1829,"Repin, Ilya",M,1844,1930,"Chuguyev, Ukrayina","Repino, Rossiya",http://www.tate.org.uk/art/artists/ilya-repin-1829
 11979,"Restiffe, Mauro",M,1970,0,"São Paulo, Brasil",Unknown,http://www.tate.org.uk/art/artists/mauro-restiffe-11979
-1830,"Reuter, Ingmar",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/ingmar-reuter-1830
+1830,"Reuter, Ingmar",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/ingmar-reuter-1830
 1831,"Reuterswärd, Carl Frederik",M,1934,0,"Stockholm, Sverige",Unknown,http://www.tate.org.uk/art/artists/carl-frederik-reutersward-1831
 1832,"Reynolds, Alan",M,1926,2014,"Newmarket, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/alan-reynolds-1832
 2529,"Reynolds, Samuel William, Junior",M,1794,1872,Unknown,Unknown,http://www.tate.org.uk/art/artists/samuel-william-reynolds-junior-2529
@@ -2707,7 +2707,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 451,"Rippingille, Edward Villiers",M,1798,1859,"King's Lynn, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/edward-villiers-rippingille-451
 5465,"Rist, Pipilotti",F,1962,0,Schweiz,Unknown,http://www.tate.org.uk/art/artists/pipilotti-rist-5465
 1849,"Rivera, Diego",M,1886,1957,"Guanajuato, México","Ciudad de México, México",http://www.tate.org.uk/art/artists/diego-rivera-1849
-13335,"Rivera, Emilio",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/emilio-rivera-13335
+13335,"Rivera, Emilio",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/emilio-rivera-13335
 1851,"Rivera, Manuel",M,1927,1995,"Granada, España",Unknown,http://www.tate.org.uk/art/artists/manuel-rivera-1851
 1852,"Rivers, Larry",M,1923,2002,"Bronx, United States","Southampton, United States",http://www.tate.org.uk/art/artists/larry-rivers-1852
 452,"Rivers, Leopold",M,1850,1905,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/leopold-rivers-452
@@ -2776,7 +2776,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 465,"Ruskin, John",M,1819,1900,"London, United Kingdom","Cumbria, United Kingdom",http://www.tate.org.uk/art/artists/john-ruskin-465
 466,"Russell, John",M,1744,1807,"Guildford, United Kingdom","Kingston-Upon-Hull, United Kingdom",http://www.tate.org.uk/art/artists/john-russell-466
 1884,"Russell, Sir Walter",M,1867,1949,"Epping, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/sir-walter-russell-1884
-7965,Russian School,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/russian-school-7965
+7965,Russian School,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/russian-school-7965
 1885,"Rutherston, Albert",M,1881,1953,"Bradford, United Kingdom","Lausanne, Schweiz",http://www.tate.org.uk/art/artists/albert-rutherston-1885
 467,"Rutland, Violet, Duchess of",F,1856,1937,"Wigan, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/violet-duchess-of-rutland-467
 13509,"Ruwedel, Mark",M,1954,0,"Bethlehem, United States",Unknown,http://www.tate.org.uk/art/artists/mark-ruwedel-13509
@@ -2799,12 +2799,12 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 11459,"Salmeron, Ernesto",M,1977,0,"Managua, Nicaragua",Unknown,http://www.tate.org.uk/art/artists/ernesto-salmeron-11459
 1893,"Salt, John",M,1937,0,"Birmingham, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-salt-1893
 2343,"Salter, Rebecca",F,1955,0,"Sussex, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/rebecca-salter-2343
-11737,"Salvatore, Eduardo",Not specified,1914,2006,Unknown,Unknown,http://www.tate.org.uk/art/artists/eduardo-salvatore-11737
+11737,"Salvatore, Eduardo",-,1914,2006,Unknown,Unknown,http://www.tate.org.uk/art/artists/eduardo-salvatore-11737
 2400,"Samaras, Lucas",M,1936,0,"Kastoría, Ellás",Unknown,http://www.tate.org.uk/art/artists/lucas-samaras-2400
 471,"Sandby, Paul",M,1730,1809,"Nottingham, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/paul-sandby-471
 472,"Sandby, Thomas",M,1721,1798,"Nottingham, United Kingdom","Windsor, United Kingdom",http://www.tate.org.uk/art/artists/thomas-sandby-472
 5319,"Sander, August",M,1876,1964,"Herdorf, Deutschland","Köln, Deutschland",http://www.tate.org.uk/art/artists/august-sander-5319
-12947,"Sander, Gunther",Not specified,1907,1986,Unknown,Unknown,http://www.tate.org.uk/art/artists/gunther-sander-12947
+12947,"Sander, Gunther",-,1907,1986,Unknown,Unknown,http://www.tate.org.uk/art/artists/gunther-sander-12947
 1894,"Sander, Ludwig",M,1906,1975,Staten Island,"New York, United States",http://www.tate.org.uk/art/artists/ludwig-sander-1894
 2539,"Sanders, Ann",F,1778,1778,Unknown,Unknown,http://www.tate.org.uk/art/artists/ann-sanders-2539
 1895,"Sandle, Michael",M,1936,0,"Weymouth, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/michael-sandle-1895
@@ -2869,7 +2869,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 484,"Segar, Sir William",M,1580,1633,Unknown,"Surrey, United Kingdom",http://www.tate.org.uk/art/artists/sir-william-segar-484
 8300,"Sehgal, Tino",M,1976,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/tino-sehgal-8300
 1922,"Self, Colin",M,1941,0,"Norwich, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/colin-self-1922
-18266,"Sen, Mithu",Not specified,1971,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/mithu-sen-18266
+18266,"Sen, Mithu",-,1971,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/mithu-sen-18266
 1923,"Serra, Richard",M,1939,0,"San Francisco, United States",Unknown,http://www.tate.org.uk/art/artists/richard-serra-1923
 10157,"Serralongue, Bruno",M,1968,0,France,Unknown,http://www.tate.org.uk/art/artists/bruno-serralongue-10157
 485,"Serres, Dominic",M,1722,1793,"Auch, France","London, United Kingdom",http://www.tate.org.uk/art/artists/dominic-serres-485
@@ -2937,7 +2937,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 14489,"Siskind, Aaron",M,1903,1991,"New York, United States","Providence, United States",http://www.tate.org.uk/art/artists/aaron-siskind-14489
 1948,"Sisley, Alfred",M,1839,1899,"Paris, France","Moret-sur-Loing, France",http://www.tate.org.uk/art/artists/alfred-sisley-1948
 13391,"Skaer, Lucy",F,1977,0,"Cambridge, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/lucy-skaer-13391
-2457,"Skeaf, D.",Not specified,1803,1819,Unknown,Unknown,http://www.tate.org.uk/art/artists/d-skeaf-2457
+2457,"Skeaf, D.",-,1803,1819,Unknown,Unknown,http://www.tate.org.uk/art/artists/d-skeaf-2457
 1949,"Skeaping, John",M,1901,1980,"Greater London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-skeaping-1949
 497,"Skelton, Jonathan",M,1735,1759,Unknown,Unknown,http://www.tate.org.uk/art/artists/jonathan-skelton-497
 1950,"Skiöld, Birgit",F,1923,1982,"Stockholm, Sverige","Stockholm, Sverige",http://www.tate.org.uk/art/artists/birgit-skiold-1950
@@ -2972,7 +2972,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1959,"Smith, Richard",M,1931,0,"Letchworth, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/richard-smith-1959
 509,"Smith, Sidney Robert James",M,1857,1913,Unknown,Unknown,http://www.tate.org.uk/art/artists/sidney-robert-james-smith-509
 1958,"Smith, Sir Matthew",M,1879,1959,"Halifax, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/sir-matthew-smith-1958
-2735,"Smith, Stephanie",Not specified,1961,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/stephanie-smith-2735
+2735,"Smith, Stephanie",-,1961,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/stephanie-smith-2735
 2226,"Smith, Thomas",M,1780,1822,Unknown,Unknown,http://www.tate.org.uk/art/artists/thomas-smith-2226
 12052,"Smith, W. Eugene",M,1918,1978,"Wichita, United States","Tucson, United States",http://www.tate.org.uk/art/artists/w-eugene-smith-12052
 4541,"Smithson, Robert",M,1938,1973,"Passaic, United States","Amarillo, United States",http://www.tate.org.uk/art/artists/robert-smithson-4541
@@ -2994,7 +2994,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 6673,"Sorman, Steven",M,1948,0,"Minneapolis, United States",Unknown,http://www.tate.org.uk/art/artists/steven-sorman-6673
 1964,"Sorrell, Alan",M,1904,1974,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/alan-sorrell-1964
 1965,"Sorrell, Elizabeth",F,1916,1991,"Redcar and Cleveland, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/elizabeth-sorrell-1965
-13098,"Sosnowska, Monika",Not specified,1972,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/monika-sosnowska-13098
+13098,"Sosnowska, Monika",-,1972,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/monika-sosnowska-13098
 1966,"Soto, Jesus Rafael",M,1923,2005,"Ciudad Bolívar, Venezuela",Unknown,http://www.tate.org.uk/art/artists/jesus-rafael-soto-1966
 515,"Souch, John",M,1594,1644,"Ormskirk, United Kingdom","Chester, United Kingdom",http://www.tate.org.uk/art/artists/john-souch-515
 1967,"Soukop, Willi",M,1907,1995,"Wien, Österreich",Unknown,http://www.tate.org.uk/art/artists/willi-soukop-1967
@@ -3003,7 +3003,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1970,"Southall, Joseph Edward",M,1861,1944,"Nottingham, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/joseph-edward-southall-1970
 1971,"Soutine, Chaïm",M,1893,1943,"Minskaya Oblast', Belarus","Paris, France",http://www.tate.org.uk/art/artists/chaim-soutine-1971
 1972,"Souza, F.N.",M,1924,2002,"Goa, Bharat",Unknown,http://www.tate.org.uk/art/artists/fn-souza-1972
-5888,Soviet School,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/soviet-school-5888
+5888,Soviet School,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/soviet-school-5888
 1973,"Spear, Ruskin",M,1911,1990,"Saugus, United States","London, United Kingdom",http://www.tate.org.uk/art/artists/ruskin-spear-1973
 1974,"Speed, Harold",M,1872,1957,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/harold-speed-1974
 1975,"Spencelayh, Charles",M,1865,1958,"Rochester, United Kingdom","Northampton, United Kingdom",http://www.tate.org.uk/art/artists/charles-spencelayh-1975
@@ -3022,7 +3022,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 470,"St John Long, John St John",M,1798,1834,"Limerick, Éire","London, United Kingdom",http://www.tate.org.uk/art/artists/john-st-john-long-470
 1982,"Stael, Nicolas de",M,1914,1955,"Sankt-Peterburg, Rossiya","Antibes, France",http://www.tate.org.uk/art/artists/nicolas-de-stael-1982
 1983,"Stahly, François",M,1911,2006,"Konstanz, Deutschland","Paris, France",http://www.tate.org.uk/art/artists/francois-stahly-1983
-17224,"Staite-Murray, William",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/william-staite-murray-17224
+17224,"Staite-Murray, William",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/william-staite-murray-17224
 1984,"Stamos, Theodorus",M,1922,1997,"New York, United States","Ioánnina, Ellás",http://www.tate.org.uk/art/artists/theodorus-stamos-1984
 518,"Stanfield, Clarkson Frederick",M,1793,1867,"Sunderland, United Kingdom","Hampstead, United Kingdom",http://www.tate.org.uk/art/artists/clarkson-frederick-stanfield-518
 519,"Stanhope, John Roddam Spencer",M,1829,1908,"England, United Kingdom","Firenze, Italia",http://www.tate.org.uk/art/artists/john-roddam-spencer-stanhope-519
@@ -3042,7 +3042,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1989,"Steele, Jeffrey",M,1931,0,"Cardiff, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/jeffrey-steele-1989
 1990,"Steer, Philip Wilson",M,1860,1942,"Birkenhead, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/philip-wilson-steer-1990
 1991,"Stein, Ronald",M,1930,0,"New York, United States",Unknown,http://www.tate.org.uk/art/artists/ronald-stein-1991
-5227,"Steinbach, Haim",Not specified,1944,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/haim-steinbach-5227
+5227,"Steinbach, Haim",-,1944,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/haim-steinbach-5227
 1992,"Steinlen, Théophile-Alexandre",M,1859,1923,"Lausanne, Schweiz","Paris, France",http://www.tate.org.uk/art/artists/theophile-alexandre-steinlen-1992
 1993,"Steir, Pat",F,1940,0,"Newark, United States",Unknown,http://www.tate.org.uk/art/artists/pat-steir-1993
 1994,"Stella, Frank",M,1936,0,"Malden, United States",Unknown,http://www.tate.org.uk/art/artists/frank-stella-1994
@@ -3067,7 +3067,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 531,"Stothard, Thomas",M,1755,1834,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/thomas-stothard-531
 533,"Stott of Oldham, William",M,1857,1900,"Oldham, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/william-stott-of-oldham-533
 532,"Stott, Edward",M,1859,1918,Rochdale,"England, United Kingdom",http://www.tate.org.uk/art/artists/edward-stott-532
-5739,"Strakhov-Braslavsky, Adolf",Not specified,1896,1979,Unknown,Unknown,http://www.tate.org.uk/art/artists/adolf-strakhov-braslavsky-5739
+5739,"Strakhov-Braslavsky, Adolf",-,1896,1979,Unknown,Unknown,http://www.tate.org.uk/art/artists/adolf-strakhov-braslavsky-5739
 2003,"Strang, Ian",M,1886,1952,"London, United Kingdom","Buckinghamshire, United Kingdom",http://www.tate.org.uk/art/artists/ian-strang-2003
 534,"Strang, William",M,1859,1921,"Dunbarton, United Kingdom","Bournemouth, United Kingdom",http://www.tate.org.uk/art/artists/william-strang-534
 387,"Streatfeild, Robert",M,1786,1852,Unknown,Unknown,http://www.tate.org.uk/art/artists/robert-streatfeild-387
@@ -3109,7 +3109,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2017,"Sydney, Berenice",F,1944,1983,"Esher, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/berenice-sydney-2017
 2018,"Symons, Patrick",M,1925,1993,"Bromley, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/patrick-symons-2018
 12979,"Szapocznikow, Alina",F,1926,1973,"Kalisz, Polska","Haute-Savoie, France",http://www.tate.org.uk/art/artists/alina-szapocznikow-12979
-15133,"T R Uthco (Doug Hall born 1944, Diane Andrews Hall born 1945, Jody Procter 1944-1998)",Not specified,1970,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/t-r-uthco-doug-hall-born-1944-diane-andrews-hall-born-1945-jody-procter-1944-1998-15133
+15133,"T R Uthco (Doug Hall born 1944, Diane Andrews Hall born 1945, Jody Procter 1944-1998)",-,1970,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/t-r-uthco-doug-hall-born-1944-diane-andrews-hall-born-1945-jody-procter-1944-1998-15133
 4451,"Takahashi, Tomoko",F,1966,0,"Tokyo, Nihon",Unknown,http://www.tate.org.uk/art/artists/tomoko-takahashi-4451
 15501,"Takamatsu, Jiro",M,1936,1998,Unknown,Unknown,http://www.tate.org.uk/art/artists/jiro-takamatsu-15501
 2019,Takis,M,1925,0,"Athínai, Ellás",Unknown,http://www.tate.org.uk/art/artists/takis-2019
@@ -3132,13 +3132,13 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2028,"Taylor, Walter",M,1860,1943,"Leeds, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/walter-taylor-2028
 2595,"Taylor-Johnson, OBE Sam",F,1967,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/sam-taylor-johnson-obe-2595
 2029,"Tchelitchew, Pavel",M,1898,1957,"Kaluga, Rossiya","Grottaferrata, Italia",http://www.tate.org.uk/art/artists/pavel-tchelitchew-2029
-11739,"Teixeira Filho, Dalmo",Not specified,1923,1981,Unknown,Unknown,http://www.tate.org.uk/art/artists/dalmo-teixeira-filho-11739
+11739,"Teixeira Filho, Dalmo",-,1923,1981,Unknown,Unknown,http://www.tate.org.uk/art/artists/dalmo-teixeira-filho-11739
 11984,"Téllez, Javier",M,1969,0,"Valencia, Venezuela",Unknown,http://www.tate.org.uk/art/artists/javier-tellez-11984
 543,"Tenniel, Sir John",M,1820,1914,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/sir-john-tenniel-543
 6728,"Teraoka, Masami",M,1936,0,"Onomichi, Nihon",Unknown,http://www.tate.org.uk/art/artists/masami-teraoka-6728
 2030,"Teshigahara, Sofu",M,1900,1979,"Tokyo, Nihon","Tokyo, Nihon",http://www.tate.org.uk/art/artists/sofu-teshigahara-2030
 2031,"Tharrats, Joan-Josep",M,1918,0,"Gerona, España",Unknown,http://www.tate.org.uk/art/artists/joan-josep-tharrats-2031
-16241,"Art & Language (Ian Burn, 1939-1993; Mel Ramsden, born 1944)",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/art-language-ian-burn-1939-1993-mel-ramsden-born-1944-16241
+16241,"Art & Language (Ian Burn, 1939-1993; Mel Ramsden, born 1944)",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/art-language-ian-burn-1939-1993-mel-ramsden-born-1944-16241
 2312,"Therrien, Robert",M,1947,0,"Chicago, United States",Unknown,http://www.tate.org.uk/art/artists/robert-therrien-2312
 2032,"Thiebaud, Wayne",M,1920,0,"Mesa, United States",Unknown,http://www.tate.org.uk/art/artists/wayne-thiebaud-2032
 2033,"Thirsk, John",M,1945,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/john-thirsk-2033
@@ -3153,7 +3153,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2037,"Thomson, George",M,1860,1939,"Scotland, United Kingdom","Boulogne-sur-Mer, France",http://www.tate.org.uk/art/artists/george-thomson-2037
 548,"Thomson, Henry",M,1773,1843,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/henry-thomson-548
 549,"Thomson, Rev. John, of Duddingston",M,1778,1840,"Dailly, United Kingdom","West Lothian, United Kingdom",http://www.tate.org.uk/art/artists/rev-john-thomson-of-duddingston-549
-2536,"Thomson, W.",Not specified,1826,1826,Unknown,Unknown,http://www.tate.org.uk/art/artists/w-thomson-2536
+2536,"Thomson, W.",-,1826,1826,Unknown,Unknown,http://www.tate.org.uk/art/artists/w-thomson-2536
 550,"Thornhill, Sir James",M,1675,1734,"Dorset, United Kingdom",Stalbridge,http://www.tate.org.uk/art/artists/sir-james-thornhill-550
 2038,"Thornton, Alfred",M,1863,1939,"Delhi, Bharat","Gloucestershire, United Kingdom",http://www.tate.org.uk/art/artists/alfred-thornton-2038
 2039,"Thornton, Valerie",F,1931,1991,"London, United Kingdom","Suffolk, United Kingdom",http://www.tate.org.uk/art/artists/valerie-thornton-2039
@@ -3181,7 +3181,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 11484,"Toderi, Grazia",F,1963,0,"Padova, Italia",Unknown,http://www.tate.org.uk/art/artists/grazia-toderi-11484
 2051,"Toft, Albert",M,1862,1949,"Birmingham, United Kingdom","Worthing, United Kingdom",http://www.tate.org.uk/art/artists/albert-toft-2051
 2052,"Toledano, Edward",M,1919,0,United States,Unknown,http://www.tate.org.uk/art/artists/edward-toledano-2052
-2537,Tollemache,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/tollemache-2537
+2537,Tollemache,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/tollemache-2537
 6854,"Tomaselli, Fred",M,1962,0,"Santa Monica, United States",Unknown,http://www.tate.org.uk/art/artists/fred-tomaselli-6854
 2461,"Tomkins, William",M,1730,1792,Unknown,"London, United Kingdom",http://www.tate.org.uk/art/artists/william-tomkins-2461
 2054,"Tomlin, Stephen",M,1901,1937,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/stephen-tomlin-2054
@@ -3191,7 +3191,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 16792,"Toren, Amikam",M,1945,0,"Yerushalayim, Yisra'el",Unknown,http://www.tate.org.uk/art/artists/amikam-toren-16792
 2057,"Torner, Gustavo",M,1925,0,"Cuenca, España",Unknown,http://www.tate.org.uk/art/artists/gustavo-torner-2057
 9546,"Torres, Rubén Ortiz",M,1964,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/ruben-ortiz-torres-9546
-17656,"Totchemetcheho, Léonard Cosme",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/totche-17656
+17656,"Totchemetcheho, Léonard Cosme",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/totche-17656
 2058,"Toulouse-Lautrec, Henri de",M,1864,1901,"Albi, France","Langon, France",http://www.tate.org.uk/art/artists/henri-de-toulouse-lautrec-2058
 2059,"Tousignant, Serge",M,1942,0,"Québec, Canada",Unknown,http://www.tate.org.uk/art/artists/serge-tousignant-2059
 2060,"Town, Harold",M,1924,1990,"Toronto, Canada",Unknown,http://www.tate.org.uk/art/artists/harold-town-2060
@@ -3229,7 +3229,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 559,"Turner, William, of Oxford",M,1789,1862,"Oxfordshire, United Kingdom",Oxford,http://www.tate.org.uk/art/artists/william-turner-of-oxford-559
 2077,"Turner, Winifred",F,1903,1983,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/winifred-turner-2077
 7017,"Turrell, James",M,1943,0,"Pasadena, United States",Unknown,http://www.tate.org.uk/art/artists/james-turrell-7017
-2541,"Turton, M.",Not specified,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/m-turton-2541
+2541,"Turton, M.",-,1800,1899,Unknown,Unknown,http://www.tate.org.uk/art/artists/m-turton-2541
 8006,"Tuttle, Richard",M,1941,0,"Rahway, United States",Unknown,http://www.tate.org.uk/art/artists/richard-tuttle-8006
 2612,"Tuymans, Luc",M,1958,0,België,Unknown,http://www.tate.org.uk/art/artists/luc-tuymans-2612
 2078,"Tweed, John",M,1869,1933,"Glasgow, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/john-tweed-2078
@@ -3248,7 +3248,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2086,"Ulreich, Edward Buk",M,1900,1966,"Koszeg, Magyarország","San Francisco, United States",http://www.tate.org.uk/art/artists/edward-buk-ulreich-2086
 2087,"Underwood, Leon",M,1890,1975,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/leon-underwood-2087
 2463,"Underwood, Thomas Richard",M,1772,1836,Unknown,Unknown,http://www.tate.org.uk/art/artists/thomas-richard-underwood-2463
-12965,Unknown,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/unknown-12965
+12965,Unknown,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/unknown-12965
 2088,"Unwin, Francis",M,1885,1925,"Stalbridge, United Kingdom","Norfolk, United Kingdom",http://www.tate.org.uk/art/artists/francis-unwin-2088
 2089,"Unwin, Marianne",F,1930,0,United Kingdom,Unknown,http://www.tate.org.uk/art/artists/marianne-unwin-2089
 13751,"Unwin, Phoebe",F,1979,0,"Cambridge, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/phoebe-unwin-13751
@@ -3256,11 +3256,11 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 8875,"Uslé, Juan",M,1954,0,"Santander, España",Unknown,http://www.tate.org.uk/art/artists/juan-usle-8875
 2090,"Utrillo, Maurice",M,1883,1955,"Paris, France","Dax, France",http://www.tate.org.uk/art/artists/maurice-utrillo-2090
 560,"Uwins, Thomas",M,1782,1857,Unknown,Unknown,http://www.tate.org.uk/art/artists/thomas-uwins-560
-17134,V.Ch.K.,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/vchk-17134
+17134,V.Ch.K.,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/vchk-17134
 561,"Vacher, Charles",M,1818,1883,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/charles-vacher-561
 11947,"Vale, João Pedro",M,1976,0,"Lisboa, Portugal",Unknown,http://www.tate.org.uk/art/artists/joao-pedro-vale-11947
 2091,"Valenti, Italo",M,1912,1995,"Milano, Italia",Unknown,http://www.tate.org.uk/art/artists/italo-valenti-2091
-17036,"Valette, Adolphe",Not specified,1876,1942,Unknown,Unknown,http://www.tate.org.uk/art/artists/adolphe-valette-17036
+17036,"Valette, Adolphe",-,1876,1942,Unknown,Unknown,http://www.tate.org.uk/art/artists/adolphe-valette-17036
 2092,"Vallotton, Félix",M,1865,1925,"Lausanne, Schweiz","Paris, France",http://www.tate.org.uk/art/artists/felix-vallotton-2092
 2093,"Valoch, Jiri",M,1946,0,"Brno, Ceská Republika",Unknown,http://www.tate.org.uk/art/artists/jiri-valoch-2093
 562,"Van Aken, Joseph",M,1699,1749,Unknown,"London, United Kingdom",http://www.tate.org.uk/art/artists/joseph-van-aken-562
@@ -3274,7 +3274,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 563,"Vanderbank, John",M,1694,1739,"London, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/john-vanderbank-563
 11827,"Vaney, Anna Lena",F,1970,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/anna-lena-vaney-11827
 2094,"Vantongerloo, Georges",M,1886,1965,"Antwerpen, België","Paris, France",http://www.tate.org.uk/art/artists/georges-vantongerloo-2094
-17129,Vara,Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/vara-17129
+17129,Vara,-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/vara-17129
 906,"Vardea, Chryssa",F,1933,2013,"Athínai, Ellás",Unknown,http://www.tate.org.uk/art/artists/chryssa-vardea-906
 2792,"Varejao, Adriana",F,1964,0,"Rio de Janeiro, Brasil",Unknown,http://www.tate.org.uk/art/artists/adriana-varejao-2792
 568,"Varley, Cornelius",M,1781,1873,"Hackney, United Kingdom","Hampstead, United Kingdom",http://www.tate.org.uk/art/artists/cornelius-varley-568
@@ -3300,11 +3300,11 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2651,"Vilaincour, Leon",M,1923,0,"Kraków, Polska",Unknown,http://www.tate.org.uk/art/artists/leon-vilaincour-2651
 2106,"Villard, Antoine",M,1867,1934,France,Paris,http://www.tate.org.uk/art/artists/antoine-villard-2106
 2748,"Villeglé, Jacques Mahé de la",M,1926,0,"Quimper, France",Unknown,http://www.tate.org.uk/art/artists/jacques-mahe-de-la-villegle-2748
-2107,"Villers, Dee",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/dee-villers-2107
+2107,"Villers, Dee",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/dee-villers-2107
 2333,"Viola, Bill",M,1951,0,"New York, United States",Unknown,http://www.tate.org.uk/art/artists/bill-viola-2333
 4829,"Virtue, John",M,1947,0,"Accrington, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/john-virtue-4829
 2108,"Visser, Carel",M,1928,0,"Papendrecht, Nederland",Unknown,http://www.tate.org.uk/art/artists/carel-visser-2108
-17732,"Vivares, Francis",Not specified,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/francis-vivares-17732
+17732,"Vivares, Francis",-,0,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/francis-vivares-17732
 12186,"Vlahos, Vangelis",M,1971,0,"Athínai, Ellás",Unknown,http://www.tate.org.uk/art/artists/vangelis-vlahos-12186
 2109,"Vlaminck, Maurice de",M,1876,1958,"Paris, France","Eure-et-Loir, France",http://www.tate.org.uk/art/artists/maurice-de-vlaminck-2109
 2110,"Vollon, Antoine",M,1833,1900,"Lyon, France","Paris, France",http://www.tate.org.uk/art/artists/antoine-vollon-2110
@@ -3316,9 +3316,9 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 1236,"Vuong, Ha van",F,1914,0,Viet Nam,Unknown,http://www.tate.org.uk/art/artists/ha-van-vuong-1236
 573,"Wade, Thomas",M,1828,1891,United States,"London, United Kingdom",http://www.tate.org.uk/art/artists/thomas-wade-573
 2113,"Wadsworth, Edward",M,1889,1949,"Cleckheaton, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/edward-wadsworth-2113
-11825,"Wagener, Imke",Not specified,1971,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/imke-wagener-11825
+11825,"Wagener, Imke",-,1971,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/imke-wagener-11825
 574,"Wainwright, John",M,1845,1873,Unknown,Unknown,http://www.tate.org.uk/art/artists/john-wainwright-574
-14825,"Wakely, Shelagh",Not specified,1932,2011,Unknown,Unknown,http://www.tate.org.uk/art/artists/shelagh-wakely-14825
+14825,"Wakely, Shelagh",-,1932,2011,Unknown,Unknown,http://www.tate.org.uk/art/artists/shelagh-wakely-14825
 2465,"Wale, Samuel",M,1721,1786,Unknown,"London, United Kingdom",http://www.tate.org.uk/art/artists/samuel-wale-2465
 2583,"Walker, Anthony",M,1726,1765,"England, United Kingdom",London,http://www.tate.org.uk/art/artists/anthony-walker-2583
 2114,"Walker, Arthur G",M,1861,1939,"London, United Kingdom","Bournemouth, United Kingdom",http://www.tate.org.uk/art/artists/arthur-g-walker-2114
@@ -3385,7 +3385,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2135,"West, Walter",M,1860,1933,"Kingston-Upon-Hull, United Kingdom","Northwood, United Kingdom",http://www.tate.org.uk/art/artists/walter-west-2135
 595,"Westall, Richard",M,1765,1836,"Hertford, United Kingdom","London, United Kingdom",http://www.tate.org.uk/art/artists/richard-westall-595
 596,"Westall, William",M,1781,1850,"Hertford, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/william-westall-596
-18071,"Westmacott, Richard",Not specified,1775,1856,Unknown,Unknown,http://www.tate.org.uk/art/artists/richard-westmacott-18071
+18071,"Westmacott, Richard",-,1775,1856,Unknown,Unknown,http://www.tate.org.uk/art/artists/richard-westmacott-18071
 2720,"Weston, Edward",M,1886,1958,"Highland Park, United States","Carmel, United States",http://www.tate.org.uk/art/artists/edward-weston-2720
 2576,"Wharncliffe, Lady",F,1776,1853,Unknown,Unknown,http://www.tate.org.uk/art/artists/lady-wharncliffe-nee-lady-caroline-mary-elizabeth-creighton-2576
 2544,"Wheatley, Clara",F,1750,1838,Unknown,"London, United Kingdom",http://www.tate.org.uk/art/artists/clara-wheatley-2544
@@ -3494,7 +3494,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 10256,"Xu, Zhen",M,1977,0,"Shanghai, Zhonghua",Unknown,http://www.tate.org.uk/art/artists/xu-zhen-10256
 14410,"Yagaki, Shikanosuke",M,1897,1966,"Kyoto, Nihon",Unknown,http://www.tate.org.uk/art/artists/shikanosuke-yagaki-14410
 2177,"Yale, Brian",M,1936,2009,"Staffordshire, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/brian-yale-2177
-11740,"Yalenti, José",Not specified,1895,1967,Unknown,Unknown,http://www.tate.org.uk/art/artists/jose-yalenti-11740
+11740,"Yalenti, José",-,1895,1967,Unknown,Unknown,http://www.tate.org.uk/art/artists/jose-yalenti-11740
 15931,"Yalter, Nil",F,1938,0,"Al-Qahirah, Misr",Unknown,http://www.tate.org.uk/art/artists/nil-yalter-15931
 16030,"Yamaguchi, Katsuhiro",M,1928,0,"Tokyo, Nihon",Unknown,http://www.tate.org.uk/art/artists/katsuhiro-yamaguchi-16030
 14400,"Yamawaki, Iwao",M,1898,1987,"Nagasaki, Nihon",Unknown,http://www.tate.org.uk/art/artists/iwao-yamawaki-14400
@@ -3508,7 +3508,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 16784,"Yiadom-Boakye, Lynette",F,1977,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/lynette-yiadom-boakye-16784
 8297,"Young, Carey",F,1970,0,"Lusaka, Zambia",Unknown,http://www.tate.org.uk/art/artists/carey-young-8297
 2180,"Young, Robert",M,1938,0,"Vancouver, Canada",Unknown,http://www.tate.org.uk/art/artists/robert-young-2180
-15539,"Young-Hae Chang Heavy Industries (Young-Hae Chang, Marc Voge)",Not specified,1966,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/young-hae-chang-heavy-industries-young-hae-chang-marc-voge-15539
+15539,"Young-Hae Chang Heavy Industries (Young-Hae Chang, Marc Voge)",-,1966,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/young-hae-chang-heavy-industries-young-hae-chang-marc-voge-15539
 1326,"Young-Hunter, John",M,1874,1955,"Glasgow, United Kingdom","Taos, United States",http://www.tate.org.uk/art/artists/john-young-hunter-1326
 2181,"Yuon, Konstantin",M,1875,1958,"Moskva, Rossiya","Moskva, Rossiya",http://www.tate.org.uk/art/artists/konstantin-yuon-2181
 2182,"Yvaral, Jean-Pierre",M,1934,2002,"Paris, France","Paris, France",http://www.tate.org.uk/art/artists/jean-pierre-yvaral-2182
@@ -3521,7 +3521,7 @@ id,name,gender,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url
 2185,"Zao, Wou-ki",M,1921,2013,"Beijing, Zhonghua","Nyon, Schweiz",http://www.tate.org.uk/art/artists/zao-wou-ki-2185
 14153,"Zhang, Enli",M,1965,0,"Jilin, Zhonghua",Unknown,http://www.tate.org.uk/art/artists/zhang-enli-14153
 10126,"Ziegler, Toby",M,1972,0,"London, United Kingdom",Unknown,http://www.tate.org.uk/art/artists/toby-ziegler-10126
-13099,"Ziolkowski, Jakub Julian",Not specified,1980,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/jakub-julian-ziolkowski-13099
+13099,"Ziolkowski, Jakub Julian",-,1980,0,Unknown,Unknown,http://www.tate.org.uk/art/artists/jakub-julian-ziolkowski-13099
 9937,"Zipp, Thomas",M,1966,0,"Heppenheim an der Bergstrasse, Deutschland",Unknown,http://www.tate.org.uk/art/artists/thomas-zipp-9937
 2395,"Zittel, Andrea",F,1965,0,"Sausalito, United States",Unknown,http://www.tate.org.uk/art/artists/andrea-zittel-2395
 13100,"Zmijewski, Artur",M,1966,0,"Warszawa, Polska",Unknown,http://www.tate.org.uk/art/artists/artur-zmijewski-13100
