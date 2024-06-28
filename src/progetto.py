@@ -1,13 +1,13 @@
 import pandas as pd
 import numpy as np
-from const import *
+from src.scripts.const import *
 from matplotlib import pyplot as plt
 import graphing
 import re
 
 
-artist_df = pd.read_csv(ARTIST_DATA)
-artwork_df = pd.read_csv(ARTWORK_DATA)
+artist_df = pd.read_csv(ARTISTS_DATA_CSV)
+artwork_df = pd.read_csv(ARTWORKS_DATA_CSV)
 
 
 # Dataset artists
@@ -23,7 +23,7 @@ artist_df_nan['placeOfDeath'].fillna('Unknown', inplace=True)
 artist_df_nan.drop(columns=['dates'], inplace=True)
 # print(artist_df_nan.isnull().sum())
 
-cleaned_artist = 'cleaned_artist_data.csv'
+cleaned_artist = CLEANED_ARTISTS_DATA_CSV
 artist_df_nan.to_csv(cleaned_artist, index=False)
 
 
@@ -86,5 +86,5 @@ artwork_df_nan.drop(columns=['dimensions'], inplace=True)
 #print(artwork_df_nan[artwork_df_nan['inscription'].notnull()].shape)
 #print(artwork_df_nan[artwork_df_nan['inscription'] == 'date inscribed'].shape[0])
 
-cleaned_artwork = 'cleaned_artwork_data.csv'
+cleaned_artwork = CLEANED_ARTWORKS_DATA_CSV
 artwork_df_nan.to_csv(cleaned_artwork, index=False)
