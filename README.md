@@ -44,6 +44,7 @@ CREATE TABLE Artists (
     place_of_birth VARCHAR(50),
     place_of_death VARCHAR(50),
     url VARCHAR(255) NOT NULL,
+
     PRIMARY KEY (id)
 )
 ```
@@ -51,7 +52,7 @@ CREATE TABLE Artists (
 CREATE TABLE Artworks (
     id INTEGER NOT NULL,
     accession_number CHAR(6) NOT NULL,
-    artist VARCHAR(100),
+    artist VARCHAR(255),
     artistRole VARCHAR(20),
     artistId INTEGER NOT NULL,
     title VARCHAR(2047),
@@ -63,13 +64,14 @@ CREATE TABLE Artworks (
     types VARCHAR(100),
     width INTEGER,
     height INTEGER,
-    depth DECIMAL(10,2),
+    depth INTEGER,
     units CHAR(2),
-    inscription VARCHAR(255),
-    thumbnailCopyright VARCHAR(2047),
-    thumbnailUrl VARCHAR(255),
+    inscription CHAR(15),
     url VARCHAR(255),
-    PRIMARY KEY (id)
+
+    PRIMARY KEY (id, accession_number),
+    UNIQUE (id),
+    FOREIGN KEY (artistId) REFERENCE (id) FROM Artists
 )
 ```
 - Entry insert
