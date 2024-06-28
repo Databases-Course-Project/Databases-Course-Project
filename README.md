@@ -51,7 +51,7 @@ CREATE TABLE Artists (
 ```mysql
 CREATE TABLE Artworks (
     id INTEGER NOT NULL,
-    accession_number CHAR(6) NOT NULL,
+    accession_number CHAR(7) NOT NULL,
     artist VARCHAR(255),
     artistRole VARCHAR(20),
     artistId INTEGER NOT NULL,
