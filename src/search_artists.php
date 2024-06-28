@@ -2,13 +2,6 @@
 
 	$link = mysqli_connect("127.0.0.1", "root", "mypassword", "museo");
 
-	if (!$link) {
-		echo "Si è verificato un errore: impossibile collegarsi al database <br/>";
-		echo "Codice errore: " . mysqli_connect_errno() . "<br/>";
-		echo "Messaggio errore: " . mysqli_connect_error() . "<br/>";
-		exit;
-	}
-
 	if ($_POST) {
 		$name           = $_POST['name'];
 		$gender         = $_POST['gender'];
@@ -29,11 +22,6 @@
 			WHERE (name LIKE '%$name%' AND gender LIKE '%$gender%' AND year_of_birth LIKE '%$year_of_birth%' AND year_of_death LIKE '%$year_of_death%' AND place_of_birth LIKE '%$place_of_birth%' AND place_of_death LIKE '%$place_of_death%')";
 
 	$query = mysqli_query($link, $sql);
-
-	if (!$query) {
-		echo "Si è verificato un errore: " . mysqli_error($link);
-		exit;
-	}
 ?>
 
 <html lang="it">    
@@ -56,32 +44,32 @@
 
 		<form action="search_artists.php" method="POST">
 			<fieldset>
-				<label>Nome:</label>
+				<label>Name:</label>
 				<input type="text" name="name" value="<?php echo htmlspecialchars($name);?>" autofocus >
 			</fieldset>
 			<fieldset>
-				<label>Sesso:</label>
+				<label>Gender:</label>
                 
 				<select name="gender">
-                    <option value="" <?php echo htmlspecialchars(($gender == "") ? "selected" : "");?>>Non Selezionato</option> 
-					<option value="M" <?php echo htmlspecialchars(($gender == "M") ? "selected" : "");?>>Maschio</option>	
-					<option value="F" <?php echo htmlspecialchars(($gender == "F") ? "selected" : "");?>>Femmina</option>	
+                    <option value="" <?php echo htmlspecialchars(($gender == "") ? "selected" : "");?>>Not Selected</option> 
+					<option value="M" <?php echo htmlspecialchars(($gender == "M") ? "selected" : "");?>>Male</option>	
+					<option value="F" <?php echo htmlspecialchars(($gender == "F") ? "selected" : "");?>>Female</option>	
 				</select>
 			</fieldset>
 			<fieldset>
-				<label>Anno di nascita:</label>
+				<label>Year of Birth:</label>
 				<input type="text" name="year_of_birth" value="<?php echo htmlspecialchars($year_of_birth);?>" >
 			</fieldset>
 			<fieldset>
-				<label>Anno di morte:</label>
+				<label>Year of Death:</label>
 				<input type="text" name="year_of_death" value="<?php echo htmlspecialchars($year_of_death);?>">
 			</fieldset>
 			<fieldset>
-				<label>Paese di nascita:</label>
+				<label>Place of Birth:</label>
 				<input type="text" name="place_of_birth" value="<?php echo htmlspecialchars($place_of_birth);?>">
 			</fieldset>
 			<fieldset>
-				<label>Paese di morte:</label>
+				<label>Place of Death:</label>
 				<input type="text" name="place_of_death" value="<?php echo htmlspecialchars($place_of_death);?>">
 			</fieldset>
 
@@ -91,12 +79,12 @@
             <thead>
                 <tr>
                     <th>ID</th>
-                    <th>Nome</th>
-                    <th>Sesso</th>
-                    <th>Anno di Nascita</th>
-                    <th>Anno di Morte</th>
-                    <th>Paese di Nascita</th>
-                    <th>Paese di Morte</th>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Year od Birth</th>
+                    <th>Year of Death</th>
+                    <th>Place of Birth</th>
+                    <th>Place of Death</th>
                     <th>URL</th>
                 </tr>
             </thead>
