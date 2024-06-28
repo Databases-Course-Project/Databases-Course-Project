@@ -75,7 +75,8 @@ def extract_type_without_dimensions(dimension_str):
 artwork_df_nan['types'] = artwork_df_nan['dimensions'].apply(extract_type_without_dimensions)
 artwork_df_nan = artwork_df_nan[['id', 'accession_number', 'artist', 'artistRole', 'artistId', 'title', 'dateText', 'medium', 'creditLine', 'year', 'acquisitionYear', 'types', 'dimensions', 'width', 'height', 'depth', 'units', 'creditLine', 'inscription', 'url']]
 artwork_df_nan.drop(columns=['dimensions'], inplace=True)
-print(artwork_df_nan['depth'].unique())
+
+#print(artwork_df_nan['url'].unique())
 
 #print(artwork_df_nan.isnull().sum())
 
