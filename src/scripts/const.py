@@ -59,7 +59,7 @@ CREATE_ARTWORKS_TABLE_QUERY = '''\
         
         PRIMARY KEY (`id`, `accesion_number`),\
         UNIQUE (`id`),\
-        FOREIGN KEY (`artistId`) REFERENCE (`id`) FROM Artists\
+        FOREIGN KEY (`artistId`) REFERENCES (`id`) FROM Artists\
     )\
 '''
 
