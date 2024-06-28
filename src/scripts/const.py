@@ -62,17 +62,7 @@ CREATE_ARTWORKS_TABLE_QUERY = '''\
 '''
 
 ARTISTS_INSERT_QUERY = '''\
-    INSERT INTO `Artists` (\
-        `id`,\
-        `name`,\
-        `gender`,\
-        `dates`,\
-        `year_of_birth`,\
-        `year_of_death`,\
-        `place_of_birth`,\
-        `place_of_death`,\
-        `url`\
-    ) VALUES (\
+    INSERT INTO `Artists` VALUES (\
         %s,\
         %s,\
         %s,\
@@ -81,33 +71,11 @@ ARTISTS_INSERT_QUERY = '''\
         %s,\
         %s,\
         %s,\
-        %s\
     )\
 '''
 
 ARTWORKS_INSERT_QUERY = '''\
-    INSERT INTO `Artworks` (\
-        `id`,\
-        `accession_number`,\
-        `artist`,\
-        `artistRole`,\
-        `artistId`,\
-        `title`,\
-        `dateText`,\
-        `medium`,\
-        `creditLine`,\
-        `year`,\
-        `acquisitionYear`,\
-        `dimensions`,\
-        `width`,\
-        `height`,\
-        `depth`,\
-        `units`,\
-        `inscription`,\
-        `thumbnailCopyright`,\
-        `thumbnailUrl`,\
-        `url`\
-    ) VALUES (\
+    INSERT INTO `Artworks` VALUES (\
         %s,\
         %s,\
         %s,\
@@ -126,8 +94,6 @@ ARTWORKS_INSERT_QUERY = '''\
         %s,\
         %s,\
         %s,\
-        %s,\
-        %s\
     )\
 '''
 
