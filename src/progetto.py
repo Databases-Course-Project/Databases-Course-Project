@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from src.scripts.const import *
+from scripts.const import *
 from matplotlib import pyplot as plt
 import graphing
 import re
@@ -13,7 +13,7 @@ artwork_df = pd.read_csv(ARTWORKS_DATA_CSV)
 # Dataset artists
 artist_df_nan = artist_df.copy()
 
-artist_df_nan['gender'].fillna('Not specified', inplace=True)
+artist_df_nan['gender'].fillna('-', inplace=True)
 artist_df_nan['yearOfBirth'] = artist_df_nan['yearOfBirth'].replace(np.nan, 0).astype(int)
 artist_df_nan['yearOfDeath'] = artist_df_nan['yearOfDeath'].replace(np.nan, 0).astype(int)
 artist_df_nan['gender'].replace({'Male': 'M', 'Female': 'F'}, inplace=True)
