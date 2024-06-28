@@ -41,7 +41,7 @@ CREATE_ARTWORKS_TABLE_QUERY = '''\
         `id` INTEGER NOT NULL,\
         `accession_number` CHAR(7) NOT NULL,\
         `artist` VARCHAR(255),\
-        `artistRole` VARCHAR(20),\
+        `artistRole` VARCHAR(100),\
         `artistId` INTEGER NOT NULL,\
         `title` VARCHAR(2047),\
         `dateText` VARCHAR(255),\
