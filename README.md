@@ -76,11 +76,9 @@ CREATE TABLE Artworks (
 ```
 - Entry insert
 ```mysql
-INSERT INTO Artists (id, name, gender, dates, year_of_birth, year_of_death, place_of_birth, place_of_death, url)
-VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+INSERT INTO Artists VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
 ```
 ```mysql
-INSERT INTO Artworks (id, accession_number, artist, artistRole, artistId, title, dateText, medium, creditLine, year, acquisitionYear, dimensions, width, height, depth, units, inscription, thumbnailCopyright, thumbnailUrl, url)
-VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,%s, %s, %s)
+INSERT INTO Artworks VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 ```
 
