@@ -70,7 +70,7 @@ CREATE TABLE Artworks (
     url VARCHAR(255),
 
     PRIMARY KEY (id, accession_number),
-    UNIQUE(id),
+    UNIQUE (id),
     FOREIGN KEY (artistId) REFERENCE (id) FROM Artists
 )
 ```
