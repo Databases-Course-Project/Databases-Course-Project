@@ -33,7 +33,7 @@ CREATE_ARTISTS_TABLE_QUERY = '''\
         `url` VARCHAR(255) NOT NULL,\
         
         PRIMARY KEY (`id`),\
-        FOREIGN KEY (`id`) REFERENCES Artworks(`artistId`)\
+        FOREIGN KEY (`id`) REFERENCES Artworks (`artistId`)\
     )\
 '''
 

@@ -46,7 +46,7 @@ CREATE TABLE Artists (
     url VARCHAR(255) NOT NULL,
 
     PRIMARY KEY (id),
-    FOREIGN KEY (id) REFERENCES Artwork(ArtistId)
+    FOREIGN KEY (id) REFERENCES Artworks (ArtistId)
 )
 ```
 ```mysql
