@@ -71,7 +71,7 @@ CREATE TABLE Artworks (
 
     PRIMARY KEY (id, accession_number),
     UNIQUE (id),
-    FOREIGN KEY (artistId) REFERENCES (id) FROM Artists
+    FOREIGN KEY (artistId) REFERENCES Artists(id)
 )
 ```
 - Entry insert
