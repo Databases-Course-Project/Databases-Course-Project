@@ -86,6 +86,7 @@
                     <th>Place of Birth</th>
                     <th>Place of Death</th>
                     <th>URL</th>
+					<th>Artworks</th>
                 </tr>
             </thead>
             <tbody>
@@ -99,6 +100,7 @@
                     <td><?php echo htmlspecialchars($row['place_of_birth']); ?></td>
                     <td><?php echo htmlspecialchars($row['place_of_death']); ?></td>
                     <td><?php echo htmlspecialchars($row['url']); ?></td>
+					<td><button onclick="window.location.href='artist_works.php?artist_id=<?php echo htmlspecialchars($row['id']); ?>'">View</button></td>
                 </tr>
                 <?php endwhile; ?>
             </tbody>
