@@ -15,7 +15,7 @@
     <head>
         <meta charset="utf-8">
 		        
-		<title>Search Artists</title>
+		<title>Artworks by <?php echo htmlspecialchars($_GET['artist_name']); ?></title>
 		
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 
@@ -27,7 +27,7 @@
 		</style>
     </head>
 		<button onclick="window.location.href='index.html'">Back to Home</button>
-		<h1>Artworks List</h1>
+		<h1>Artworks by <?php echo htmlspecialchars($_GET['artist_name']); ?></h1>
         <table>
             <thead>
                 <tr>
