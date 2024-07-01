@@ -40,9 +40,11 @@ CREATE TABLE Artists (
     name VARCHAR(255) NOT NULL,
     gender CHAR NOT NULL,
     year_of_birth CHAR(4) NOT NULL,
+    birth_city VARCHAR(50) NOT NULL,
+    birth_state VARCHAR(50) NOT NULL,
     year_of_death VARCHAR(4),
-    place_of_birth VARCHAR(50),
-    place_of_death VARCHAR(50),
+    death_city VARCHAR(50),
+    death_state VARCHAR(50),
     url VARCHAR(255) NOT NULL,
 
     PRIMARY KEY (id),
@@ -68,10 +70,12 @@ CREATE TABLE Artworks (
     depth INTEGER,
     units CHAR(2),
     inscription CHAR(15),
+    thumbnailUrl VARCHAR(255),
     url VARCHAR(255),
 
     PRIMARY KEY (id, accession_number),
     UNIQUE (id)
+    FOREIGN KEY (artistId) REFERENCES Artists(id)
 )
 ```
 - Entry insert
