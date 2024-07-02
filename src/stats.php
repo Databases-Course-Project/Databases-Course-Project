@@ -2,7 +2,7 @@
 	$link = mysqli_connect("127.0.0.1", "root", "mypassword", "museo");
 
     # number of artworks created in a specific year
-    if ($_POST and $_POST['year']) {
+    if ($_POST and array_key_exists('year', $_POST)) {
         $year = $_POST['year'];
         $sql1 = "SELECT COUNT(*)
                 FROM Artworks
@@ -14,7 +14,7 @@
     }
 
     # number of artists born or died in a specific nation
-    if ($_POST and $_POST['nation']) {
+    if ($_POST and array_key_exists('nation', $_POST)) {
         $nation = $_POST['nation'];
         $sql2 = "SELECT COUNT(*)
                 FROM Artists
@@ -23,8 +23,7 @@
     } else {
         $nation = '';
         $query2 = '';
-    }
-?>
+    }?>
 
 <html lang="it">    
     <head>
