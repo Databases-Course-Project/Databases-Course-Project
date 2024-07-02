@@ -75,12 +75,15 @@ ARTISTS_INSERT_QUERY = '''\
         %s,\
         %s,\
         %s,\
-        %s\
+        %s,\
+        %s,\
+        %s
     )\
 '''
 
 ARTWORKS_INSERT_QUERY = '''\
     INSERT INTO `Artworks` VALUES (\
+        %s,\
         %s,\
         %s,\
         %s,\

@@ -7,20 +7,24 @@
 		$gender         = $_POST['gender'];
 		$year_of_birth  = $_POST['year_of_birth'];
 		$year_of_death  = $_POST['year_of_death'];
-		$place_of_birth = $_POST['place_of_birth'];
-		$place_of_death = $_POST['place_of_death'];
+		$birth_city     = $_POST['birth_city'];
+		$birth_state    = $_POST['birth_state'];
+		$death_city     = $_POST['death_city'];
+		$death_state    = $_POST['death_state'];
 	} else {
 		$name           = '';
 		$gender         = '';
 		$year_of_birth  = '';
 		$year_of_death  = '';
-		$place_of_birth = '';
-		$place_of_death = '';
+		$birth_city     = '';
+		$birth_state    = '';
+		$death_city     = '';
+		$death_state    = '';
 	}
 	$sql = "SELECT Artists.*, COUNT(Artworks.id)
 			FROM Artists
 			LEFT JOIN Artworks ON Artists.id = Artworks.artistId
-			WHERE (name LIKE '%$name%' AND gender LIKE '%$gender%' AND year_of_birth LIKE '%$year_of_birth%' AND year_of_death LIKE '%$year_of_death%' AND place_of_birth LIKE '%$place_of_birth%' AND place_of_death LIKE '%$place_of_death%')
+			WHERE (name LIKE '%$name%' AND gender LIKE '%$gender%' AND year_of_birth LIKE '%$year_of_birth%' AND year_of_death LIKE '%$year_of_death%' AND birth_city LIKE '%$birth_city%' AND birth_state LIKE '%$birth_state%' AND death_city LIKE '%$death_city%' AND death_state LIKE '%$death_state%')
 			GROUP BY Artists.id";
 
 	$query = mysqli_query($link, $sql);
@@ -67,12 +71,20 @@
 				<input type="text" name="year_of_death" value="<?php echo htmlspecialchars($year_of_death);?>">
 			</fieldset>
 			<fieldset>
-				<label>Place of Birth:</label>
-				<input type="text" name="place_of_birth" value="<?php echo htmlspecialchars($place_of_birth);?>">
+				<label>Birth City:</label>
+				<input type="text" name="birth_city" value="<?php echo htmlspecialchars($birth_city);?>">
 			</fieldset>
 			<fieldset>
-				<label>Place of Death:</label>
-				<input type="text" name="place_of_death" value="<?php echo htmlspecialchars($place_of_death);?>">
+				<label>Birth State:</label>
+				<input type="text" name="birth_state" value="<?php echo htmlspecialchars($birth_state);?>">
+			</fieldset>
+			<fieldset>
+				<label>Death City:</label>
+				<input type="text" name="death_city" value="<?php echo htmlspecialchars($death_city);?>">
+			</fieldset>
+			<fieldset>
+				<label>Death State:</label>
+				<input type="text" name="death_state" value="<?php echo htmlspecialchars($death_state);?>">
 			</fieldset>
 
 			<input type="submit" value="Search" />
@@ -85,11 +97,13 @@
                     <th>Gender</th>
                     <th>Year od Birth</th>
                     <th>Year of Death</th>
-                    <th>Place of Birth</th>
-                    <th>Place of Death</th>
+                    <th>Birth City</th>
+                    <th>Birth State</th>
+                    <th>Death City</th>
+                    <th>Death State</th>
                     <th>URL</th>
-					<th>Num of Artworks</th>
 					<th>Artworks</th>
+					<th>Num of Artworks</th>
                 </tr>
             </thead>
             <tbody>
@@ -100,11 +114,13 @@
                     <td><?php echo htmlspecialchars($row['gender']); ?></td>
                     <td><?php echo htmlspecialchars($row['year_of_birth']); ?></td>
                     <td><?php echo htmlspecialchars($row['year_of_death']); ?></td>
-                    <td><?php echo htmlspecialchars($row['place_of_birth']); ?></td>
-                    <td><?php echo htmlspecialchars($row['place_of_death']); ?></td>
+                    <td><?php echo htmlspecialchars($row['birth_city']); ?></td>
+                    <td><?php echo htmlspecialchars($row['birth_state']); ?></td>
+                    <td><?php echo htmlspecialchars($row['death_city']); ?></td>
+                    <td><?php echo htmlspecialchars($row['death_state']); ?></td>
                     <td><?php echo htmlspecialchars($row['url']); ?></td>
-					<td><?php echo htmlspecialchars($row['COUNT(Artworks.id)']); ?></td>
 					<td><button onclick="window.location.href='artist_works.php?artist_id=<?php echo htmlspecialchars($row['id']); ?>&artist_name=<?php echo htmlspecialchars($row['name']); ?>'">View</button></td>
+					<td><?php echo htmlspecialchars($row['COUNT(Artworks.id)']); ?></td>
                 </tr>
                 <?php endwhile; ?>
             </tbody>
