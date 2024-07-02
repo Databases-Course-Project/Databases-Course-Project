@@ -83,7 +83,7 @@
                     <td><?php echo htmlspecialchars($row['accession_number']); ?></td>
                     <td><?php echo htmlspecialchars($row['title']); ?></td>
                     <td><?php echo htmlspecialchars($row['artist']); ?></td>
-                    <td><?php echo htmlspecialchars($row['year']); ?></td>
+                    <td><?php echo htmlspecialchars(($row['year']) ? $row['year'] : '-'); ?></td>
                     <td><?php echo htmlspecialchars($row['acquisitionYear']); ?></td>
                     <td><?php echo htmlspecialchars($row['medium']); ?></td>
                     <td><?php echo htmlspecialchars($row['width']); ?></td>

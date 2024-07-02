@@ -18,12 +18,51 @@
         $nation = $_POST['nation'];
         $sql2 = "SELECT COUNT(*)
                 FROM Artists
-                WHERE (place_of_birth LIKE '%$nation%' OR place_of_death LIKE '%$nation%')";
+                WHERE (birth_state LIKE '%$nation%' OR death_state LIKE '%$nation%')";
         $query2 = mysqli_query($link, $sql2);
     } else {
         $nation = '';
         $query2 = '';
-    }?>
+    }
+
+    # number of artists born or died in a specific city
+    if ($_POST and array_key_exists('city', $_POST)) {
+        $city = $_POST['city'];
+        $sql3 = "SELECT COUNT(*)
+                FROM Artists
+                WHERE (birth_city LIKE '%$city%' OR death_city LIKE '%$city%')";
+        $query3 = mysqli_query($link, $sql3);
+    } else {
+        $city = '';
+        $query3 = '';
+    }
+    
+    # show the artist that made the most artworks
+    $sql4 = "SELECT Artists.name, COUNT(*) AS num_artworks
+            FROM Artworks
+            JOIN Artists ON Artworks.artistId = Artists.id
+            GROUP BY Artists.id
+            ORDER BY num_artworks DESC
+            LIMIT 1";
+    $query4 = mysqli_query($link, $sql4);    
+
+    # show the average number of works of a state (of birth)
+    if ($_POST and array_key_exists('nation_of_birth', $_POST)) {
+        $nation_of_birth = $_POST['nation_of_birth'];
+        $sql5 = "SELECT AVG(Subtable.artworks_count)
+                FROM Artists
+                LEFT JOIN (
+                    SELECT artistId, COUNT(*) AS artworks_count
+                    FROM Artworks
+                    GROUP BY artistId
+                ) AS Subtable ON Artists.id = Subtable.artistId
+                WHERE Artists.birth_state = '$nation_of_birth'";
+        $query5 = mysqli_query($link, $sql5);
+    } else {
+        $nation_of_birth = '';
+        $query5 = '';
+    }
+    ?>
 
 <html lang="it">    
     <head>
@@ -45,7 +84,6 @@
 
         <h3>Artworks in a given year</h3>
         <h2><?php if ($query1) echo mysqli_fetch_assoc($query1)['COUNT(*)']; ?></h2>
-
 		<form action="stats.php" method="POST">
 			<fieldset>
 				<label>Year:</label>
@@ -56,7 +94,6 @@
 
         <h3>Artists born/dead in a given nation</h3>
         <h2><?php if ($query2) echo mysqli_fetch_assoc($query2)['COUNT(*)']; ?></h2>
-
 		<form action="stats.php" method="POST">
 			<fieldset>
 				<label>Nation:</label>
@@ -64,6 +101,30 @@
 			</fieldset>
 			<input type="submit" value="Search" />
 		</form>
+
+        <h3>Artists born/dead in a given city</h3>
+        <h2><?php if ($query3) echo mysqli_fetch_assoc($query3)['COUNT(*)']; ?></h2>
+		<form action="stats.php" method="POST">
+			<fieldset>
+				<label>City:</label>
+				<input type="text" name="city" value="<?php echo htmlspecialchars($city);?>" autofocus >
+			</fieldset>
+			<input type="submit" value="Search" />
+		</form>
+
+        <h3>Artist that made the most artworks</h3>
+        <h2><?php if ($query4) { $fetch = mysqli_fetch_assoc($query4); echo $fetch['name']; echo ' ('; echo $fetch['num_artworks']; echo ')'; }?></h2>
+
+        <h3>Average number of works of a nation (of birth)</h3>
+        <h2><?php if ($query5) echo mysqli_fetch_assoc($query5)['AVG(Subtable.artworks_count)']; ?></h2>
+        <form action="stats.php" method="POST">
+			<fieldset>
+				<label>Nation:</label>
+				<input type="text" name="nation_of_birth" value="<?php echo htmlspecialchars($nation_of_birth);?>" autofocus >
+			</fieldset>
+			<input type="submit" value="Search" />
+		</form>
+
         <?php mysqli_close($link); ?>
     </body>
 </html>
