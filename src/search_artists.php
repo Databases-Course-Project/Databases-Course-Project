@@ -17,9 +17,11 @@
 		$place_of_birth = '';
 		$place_of_death = '';
 	}
-	$sql = "SELECT *
+	$sql = "SELECT Artists.*, COUNT(Artworks.id)
 			FROM Artists
-			WHERE (name LIKE '%$name%' AND gender LIKE '%$gender%' AND year_of_birth LIKE '%$year_of_birth%' AND year_of_death LIKE '%$year_of_death%' AND place_of_birth LIKE '%$place_of_birth%' AND place_of_death LIKE '%$place_of_death%')";
+			LEFT JOIN Artworks ON Artists.id = Artworks.artistId
+			WHERE (name LIKE '%$name%' AND gender LIKE '%$gender%' AND year_of_birth LIKE '%$year_of_birth%' AND year_of_death LIKE '%$year_of_death%' AND place_of_birth LIKE '%$place_of_birth%' AND place_of_death LIKE '%$place_of_death%')
+			GROUP BY Artists.id";
 
 	$query = mysqli_query($link, $sql);
 ?>
@@ -86,6 +88,7 @@
                     <th>Place of Birth</th>
                     <th>Place of Death</th>
                     <th>URL</th>
+					<th>Num of Artworks</th>
 					<th>Artworks</th>
                 </tr>
             </thead>
@@ -100,6 +103,7 @@
                     <td><?php echo htmlspecialchars($row['place_of_birth']); ?></td>
                     <td><?php echo htmlspecialchars($row['place_of_death']); ?></td>
                     <td><?php echo htmlspecialchars($row['url']); ?></td>
+					<td><?php echo htmlspecialchars($row['COUNT(Artworks.id)']); ?></td>
 					<td><button onclick="window.location.href='artist_works.php?artist_id=<?php echo htmlspecialchars($row['id']); ?>&artist_name=<?php echo htmlspecialchars($row['name']); ?>'">View</button></td>
                 </tr>
                 <?php endwhile; ?>
