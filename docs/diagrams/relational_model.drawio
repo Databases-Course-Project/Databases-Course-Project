@@ -1,44 +1,41 @@
 <mxfile host="65bd71144e">
     <diagram id="MZElszoHY281yUTSnwkk" name="Pagina-1">
-        <mxGraphModel dx="2436" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2400" dy="1730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;ArtistId&lt;/u&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="30" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fname&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Name&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="150" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="Artist" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
                     <mxGeometry x="30" y="50" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Lname&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gender&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="270" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gender&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="390" y="90" width="120" height="60" as="geometry"/>
-                </mxCell>
                 <mxCell id="9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ArtistUrl&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1230" y="90" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="1110" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BYear&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="510" y="90" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="390" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BCity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="630" y="90" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="510" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BState&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="750" y="90" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="630" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DYear&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="870" y="90" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="750" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DCity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="990" y="90" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="870" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DState&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="1110" y="90" width="120" height="60" as="geometry"/>
+                    <mxGeometry x="990" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;ArtworkId&lt;/u&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="30" y="234" width="120" height="60" as="geometry"/>
@@ -88,7 +85,7 @@
                 <mxCell id="48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ArtworkUrl&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1900" y="234" width="126" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ArtistFLName&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ArtistName&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="2020" y="234" width="126" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ArtistRole&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -103,7 +100,7 @@
                 <mxCell id="53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;Artwork_Id&lt;/u&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="150" y="370" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;thumbnailUrl&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;thumbnailUrl&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1780" y="234" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
