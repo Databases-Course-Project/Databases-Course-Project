@@ -112,8 +112,8 @@
                     <td><?php echo htmlspecialchars($row['id']); ?></td>
                     <td><?php echo htmlspecialchars($row['name']); ?></td>
                     <td><?php echo htmlspecialchars($row['gender']); ?></td>
-                    <td><?php echo htmlspecialchars($row['year_of_birth']); ?></td>
-                    <td><?php echo htmlspecialchars($row['year_of_death']); ?></td>
+                    <td><?php echo htmlspecialchars(($row['year_of_birth'] != 0) ? $row['year_of_birth'] : '-'); ?></td>
+                    <td><?php echo htmlspecialchars(($row['year_of_death'] != 0) ? $row['year_of_death'] : '-'); ?></td>
                     <td><?php echo htmlspecialchars($row['birth_city']); ?></td>
                     <td><?php echo htmlspecialchars($row['birth_state']); ?></td>
                     <td><?php echo htmlspecialchars($row['death_city']); ?></td>
