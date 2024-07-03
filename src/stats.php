@@ -43,7 +43,7 @@
             JOIN Artists ON Artworks.artistId = Artists.id
             GROUP BY Artists.id
             ORDER BY num_artworks DESC
-            LIMIT 1";
+            LIMIT 5";
     $query4 = mysqli_query($link, $sql4);    
 
     # show the average number of works of a state (of birth)
@@ -112,8 +112,14 @@
 			<input type="submit" value="Search" />
 		</form>
 
-        <h3>Artist that made the most artworks</h3>
-        <h2><?php if ($query4) { $fetch = mysqli_fetch_assoc($query4); echo $fetch['name']; echo ' ('; echo $fetch['num_artworks']; echo ')'; }?></h2>
+        <h3>Artists who made the most artworks</h3>
+        <?php if ($query4) { 
+            $count = 1;
+            while ($fetch = mysqli_fetch_assoc($query4)) {
+                echo '<h2>' . $count . ') ' . $fetch['name'] . ' (' . $fetch['num_artworks'] . ')</h2>';
+                $count++;
+            }
+        } ?>
 
         <h3>Average number of works of a nation (of birth)</h3>
         <h2><?php if ($query5) echo mysqli_fetch_assoc($query5)['AVG(Subtable.artworks_count)']; ?></h2>
