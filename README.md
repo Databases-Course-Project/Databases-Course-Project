@@ -47,8 +47,7 @@ CREATE TABLE Artists (
     death_state VARCHAR(50),
     url VARCHAR(255) NOT NULL,
 
-    PRIMARY KEY (id),
-    FOREIGN KEY (id) REFERENCES Artworks (ArtistId)
+    PRIMARY KEY (id)
 )
 ```
 ```mysql
@@ -73,8 +72,7 @@ CREATE TABLE Artworks (
     thumbnailUrl VARCHAR(255),
     url VARCHAR(255),
 
-    PRIMARY KEY (id, accession_number),
-    UNIQUE (id)
+    PRIMARY KEY (id),
     FOREIGN KEY (artistId) REFERENCES Artists(id)
 )
 ```
