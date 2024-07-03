@@ -118,7 +118,7 @@
                     <td><?php echo htmlspecialchars($row['birth_state']); ?></td>
                     <td><?php echo htmlspecialchars($row['death_city']); ?></td>
                     <td><?php echo htmlspecialchars($row['death_state']); ?></td>
-                    <td><?php echo htmlspecialchars($row['url']); ?></td>
+					<td><a href="<?php echo htmlspecialchars($row['url']); ?>"><?php echo htmlspecialchars($row['url']); ?></a></td>
 					<td><button onclick="window.location.href='artist_works.php?artist_id=<?php echo htmlspecialchars($row['id']); ?>&artist_name=<?php echo htmlspecialchars($row['name']); ?>'">View</button></td>
 					<td><?php echo htmlspecialchars($row['COUNT(Artworks.id)']); ?></td>
                 </tr>

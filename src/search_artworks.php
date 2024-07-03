@@ -91,7 +91,7 @@
                     <td><?php echo htmlspecialchars($row['depth']); ?></td>
                     <td><?php echo htmlspecialchars($row['units']); ?></td>
                     <td><?php echo htmlspecialchars($row['creditLine']); ?></td>
-                    <td><?php echo htmlspecialchars($row['url']); ?></td>
+					<td><a href="<?php echo htmlspecialchars($row['url']); ?>"><?php echo htmlspecialchars($row['url']); ?></a></td>
                 </tr>
                 <?php endwhile; ?>
             </tbody>
