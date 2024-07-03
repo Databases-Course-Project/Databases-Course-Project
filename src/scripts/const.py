@@ -33,9 +33,7 @@ CREATE_ARTISTS_TABLE_QUERY = '''\
         `death_city` VARCHAR(50),\
         `death_state` VARCHAR(50),\
         `url` VARCHAR(255) NOT NULL,\
-        
-        PRIMARY KEY (`id`),\
-        FOREIGN KEY (`id`) REFERENCES Artworks(`artistId`)\
+        PRIMARY KEY (`id`)\
     )\
 '''
 
@@ -60,9 +58,8 @@ CREATE_ARTWORKS_TABLE_QUERY = '''\
         `inscription` CHAR(15),\
         `thumbnailUrl` VARCHAR(255),\
         `url` VARCHAR(255),\
-        
-        PRIMARY KEY (`id`, `accession_number`),\
-        UNIQUE (`id`)\
+        PRIMARY KEY (`id`),\
+        FOREIGN KEY (`artistId`) REFERENCES Artists(`id`)\
     )\
 '''
 
