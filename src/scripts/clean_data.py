@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from scripts.const import *
+from const import *
 #import requests
 import re
 
@@ -43,7 +43,7 @@ def clean_artist_data(df):
 
 def clean_artwork_data(df):
     df.drop(columns=['thumbnailCopyright'], inplace=True)
-    check_fk_integrity(df)
+    df = check_fk_integrity(df)
     df['units'] = df['units'].fillna('mm')
     df['creditLine'] = df['creditLine'].fillna('Unknown')
     df['depth'] = df['depth'].fillna(0)
