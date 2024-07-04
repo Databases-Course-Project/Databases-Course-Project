@@ -1,10 +1,7 @@
 import pandas as pd
 import numpy as np
 from const import *
-#import requests
 import re
-
-#API_KEY = 'a5335462b7494af9a5e6355993aa2168'
 
 def clean_artist_data(df):
     df['gender'] = df['gender'].fillna('-').replace({'Male': 'M', 'Female': 'F'})
@@ -30,10 +27,6 @@ def clean_artist_data(df):
     df['birthState'] = df['birthState'].fillna('Unknown')
     df['deathCity'] = df['deathCity'].fillna('Unknown')
     df['deathState'] = df['deathState'].fillna('Unknown')
-    
-    #df['birthState'] = df.apply(lambda row: get_state_from_city(row['birthCity']) if row['birthCity'] != 'Unknown' and row['birthState'] == 'Unknown' else row['birthState'], axis=1)
-    #df['deathState'] = df.apply(lambda row: get_state_from_city(row['deathCity']) if row['deathCity'] != 'Unknown' and row['deathState'] == 'Unknown' else row['deathState'], axis=1)
-    #print(df.apply(lambda row: get_state_from_city(row['birthCity']) if row['birthCity'] != 'Unknown' and row['birthState'] == 'Unknown' else row['birthState'], axis=1))
     
     df.drop(columns=['placeOfBirth', 'placeOfDeath', 'dates'], inplace=True)
     columns_to_keep = ['id', 'name', 'gender', 'yearOfBirth', 'birthCity', 'birthState',
@@ -73,20 +66,6 @@ def clean_artwork_data(df):
                        'medium', 'creditLine', 'year', 'acquisitionYear', 'types', 'width', 'height', 
                        'depth', 'units', 'inscription', 'thumbnailUrl', 'url']
     return df[columns_to_keep]
-
-'''
-def get_state_from_city(city):
-    url = f'https://api.opencagedata.com/geocode/v1/json?q={city}&key={API_KEY}'
-    response = requests.get(url)
-    data = response.json()
-    
-    if response.status_code == 200 and data['results']:
-        # Prendi la componente amministrativa dello stato (in base alla struttura della risposta dell'API)
-        for component in data['results'][0]['components'].values():
-            if isinstance(component, dict) and component.get('_type') == 'state':
-                return component['name']
-    return 'Unknown'
-'''
 
 def extract_type_without_dimensions(dimension_str):
     match = re.search(r'\d', dimension_str) if any(char.isdigit() for char in dimension_str) else None
