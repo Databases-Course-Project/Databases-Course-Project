@@ -68,6 +68,7 @@
                     <th>Year</th>
                     <th>Acquisition Year</th>
                     <th>Medium</th>
+                    <th>Types</th>
                     <th>Width</th>
                     <th>Height</th>
                     <th>Depth</th>
@@ -86,6 +87,7 @@
                     <td><?php echo htmlspecialchars(($row['year']) ? $row['year'] : '-'); ?></td>
                     <td><?php echo htmlspecialchars($row['acquisitionYear']); ?></td>
                     <td><?php echo htmlspecialchars($row['medium']); ?></td>
+                    <td><?php echo htmlspecialchars($row['types']); ?></td>
                     <td><?php echo htmlspecialchars($row['width']); ?></td>
                     <td><?php echo htmlspecialchars($row['height']); ?></td>
                     <td><?php echo htmlspecialchars($row['depth']); ?></td>
