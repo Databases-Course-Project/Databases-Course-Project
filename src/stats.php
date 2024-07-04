@@ -6,7 +6,7 @@
         $year = $_POST['year'];
         $sql1 = "SELECT COUNT(*)
                 FROM Artworks
-                WHERE (year LIKE '$year')";
+                WHERE (year = '$year')";
         $query1 = mysqli_query($link, $sql1);
     } else {
         $year = '';
@@ -18,7 +18,7 @@
         $nation = $_POST['nation'];
         $sql2 = "SELECT COUNT(*)
                 FROM Artists
-                WHERE (birth_state LIKE '%$nation%' OR death_state LIKE '%$nation%')";
+                WHERE (birth_state = '$nation' OR death_state = '$nation')";
         $query2 = mysqli_query($link, $sql2);
     } else {
         $nation = '';
@@ -30,7 +30,7 @@
         $city = $_POST['city'];
         $sql3 = "SELECT COUNT(*)
                 FROM Artists
-                WHERE (birth_city LIKE '%$city%' OR death_city LIKE '%$city%')";
+                WHERE (birth_city = '$city' OR death_city = '$city')";
         $query3 = mysqli_query($link, $sql3);
     } else {
         $city = '';

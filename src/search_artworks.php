@@ -16,7 +16,7 @@
     $sql = "SELECT *
             FROM Artworks
             WHERE (accession_number LIKE '%$accession_number%' AND title LIKE '%$title%' AND year LIKE '%$year%' AND medium LIKE '%$medium%')
-            LIMIT 1000";
+            LIMIT 10000";
 
 	$query = mysqli_query($link, $sql);
 ?>
